@@ -29,7 +29,7 @@ st.set_page_config(page_title="PlantBacteriaMatch", layout="wide")
 st.title("PlantBacteriaMatch — PGPR/PGPB candidate recommender")
 st.caption(
     "Prototype assistant for narrowing bacterial strain candidates for lab, greenhouse, "
-    "and field validation. Demo data are synthetic."
+    "and field validation."
 )
 
 dataset = load_demo_dataset(DEMO_DIR)
@@ -89,22 +89,74 @@ with right:
     )
 
 ranked_df = pd.DataFrame([rec.model_dump() for rec in recommendations])
+
+strain_lookup_cols = [
+    "strain_id",
+    "strain_name",
+    "genus",
+    "species",
+    "host_plant",
+    "region",
+    "genome_accession",
+    "notes",
+]
+
+strain_lookup = dataset["strains"][
+    [col for col in strain_lookup_cols if col in dataset["strains"].columns]
+].copy()
+
+ranked_df = ranked_df.merge(strain_lookup, on="strain_id", how="left")
+
+if "strain_name" not in ranked_df.columns:
+    ranked_df["strain_name"] = ranked_df["strain_id"]
+
+ranked_df["display_name"] = ranked_df["strain_name"].fillna(ranked_df["strain_id"])
+
 st.subheader("Ranked bacterial strains")
+
+visible_columns = [
+    "display_name",
+    "strain_id",
+    "final_score",
+    "recommendation_class",
+    "evidence_level",
+    "strengths",
+    "risks",
+    "missing_data",
+]
+
+visible_columns = [col for col in visible_columns if col in ranked_df.columns]
+
+display_df = ranked_df[visible_columns].rename(
+    columns={
+        "display_name": "strain_name",
+    }
+)
+
 st.dataframe(
-    ranked_df[
-        [
-            "strain_id",
-            "final_score",
-            "recommendation_class",
-            "evidence_level",
-            "strengths",
-            "risks",
-            "missing_data",
-        ]
-    ],
+    display_df,
     use_container_width=True,
     hide_index=True,
 )
+
+st.subheader("Top-3 candidate details")
+
+top3_details = ranked_df.head(3)[
+    [
+        "display_name",
+        "strain_id",
+        "host_plant",
+        "region",
+        "genome_accession",
+        "notes",
+    ]
+].rename(
+    columns={
+        "display_name": "strain_name",
+    }
+)
+
+st.dataframe(top3_details, use_container_width=True, hide_index=True)
 
 st.plotly_chart(plot_ranked_scores(recommendations), use_container_width=True)
 top_ids = ranked_df.head(5)["strain_id"].tolist()
