@@ -62,30 +62,71 @@ def _clean_int(value: Any, default: int = 0) -> int:
         return default
 
 
-def _row_to_strain(row: pd.Series) -> BacterialStrain:
-    data = {key: _clean_optional(value) for key, value in row.to_dict().items()}
+def _row_to_strain(row) -> BacterialStrain:
+    genus = str(row.get("genus", "")).strip()
+    species = str(row.get("species", "")).strip()
+    strain = str(row.get("strain", "")).strip()
 
-    data["taxonomy_confidence"] = _clean_float(data.get("taxonomy_confidence"), 0.0)
-    data["is_spore_former"] = _clean_bool(data.get("is_spore_former"), False)
+    strain_name_parts = [genus, species]
+    if strain:
+        strain_name_parts.append(strain)
 
-    return BacterialStrain(**data)
+    strain_name = " ".join(part for part in strain_name_parts if part)
+
+    return BacterialStrain(
+        strain_id=str(row.get("strain_id", row.get("id", ""))).strip(),
+        strain_name=str(row.get("strain_name", strain_name)).strip(),
+        genus=genus,
+        species=species,
+        strain=strain,
+        taxonomy_notes=str(row.get("taxonomy_notes", "")).strip(),
+        source=str(row.get("source", "")).strip(),
+        source_detail=str(row.get("source_detail", "")).strip(),
+    )
 
 
 def _row_to_trait(row: pd.Series | None) -> PGPTraitProfile | None:
     if row is None:
         return None
+
     data = {key: _clean_optional(value) for key, value in row.to_dict().items()}
+
+    score_columns = [
+        "nitrogen_fixation_score",
+        "phosphate_solubilization_score",
+        "siderophore_score",
+        "iaa_score",
+        "acc_deaminase_score",
+        "biocontrol_score",
+        "stress_tolerance_score",
+        "colonization_score",
+        "secondary_metabolite_score",
+    ]
+
+    for column in score_columns:
+        data[column] = _clean_float(data.get(column), 0.0)
+
     raw_features = data.get("raw_features") or {}
     if isinstance(raw_features, str):
         raw_features = {"summary": raw_features}
     data["raw_features"] = raw_features
+
     return PGPTraitProfile(**data)
 
 
 def _row_to_biosafety(row: pd.Series | None) -> BiosafetyProfile | None:
     if row is None:
         return None
+
     data = {key: _clean_optional(value) for key, value in row.to_dict().items()}
+
+    data["amr_gene_count"] = _clean_int(data.get("amr_gene_count"), 0)
+    data["virulence_gene_count"] = _clean_int(data.get("virulence_gene_count"), 0)
+    data["pathogen_flag"] = _clean_bool(data.get("pathogen_flag"), False)
+    data["risky_genus_flag"] = _clean_bool(data.get("risky_genus_flag"), False)
+    data["plasmid_amr_flag"] = _clean_bool(data.get("plasmid_amr_flag"), False)
+    data["biosafety_penalty"] = _clean_float(data.get("biosafety_penalty"), 0.0)
+
     return BiosafetyProfile(**data)
 
 
