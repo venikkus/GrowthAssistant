@@ -1,6 +1,12 @@
 plant_name,scientific_name,crop_group,target_stresses,target_pathogens,target_nutrient_limits,region,soil_pH,notes
-wheat,Triticum aestivum,cereal,drought,Fusarium;pathogen_pressure,phosphorus_deficiency,temperate,6.7,Demo wheat profile for drought and Fusarium pressure
-soybean,Glycine max,legume,salinity,,nitrogen_limitation,temperate,6.4,Demo soybean profile emphasizing nitrogen and salt stress
-potato,Solanum tuberosum,tuber,,Rhizoctonia;late_blight;pathogen_pressure,phosphorus_deficiency,temperate,5.8,Demo potato profile for pathogen and phosphorus constraints
-sunflower,Helianthus annuus,oilseed,drought,Sclerotinia;pathogen_pressure,phosphorus_deficiency,steppe,6.9,Demo sunflower profile for drought and Sclerotinia pressure
-
+wheat,Triticum aestivum,cereal,drought,Fusarium;Bipolaris;pathogen_pressure,phosphorus_deficiency,temperate,6.7,Profile aggregated from wheat rows: drought, Fusarium/Bipolaris root diseases and phosphorus limitation
+barley,Hordeum vulgare,cereal,salinity;cold_stress;early_growth,,nitrogen_balance,temperate,6.8,Profile aggregated from barley rows: salinity, cold stress and juvenile growth promotion
+rye,Secale cereale,cereal,cold_snow_cover,Microdochium;snow_mold;pathogen_pressure,,boreal_temperate,5.7,Profile aggregated from rye row: snow mold pressure under snow cover
+rice,Oryza sativa,cereal,flooded_conditions,Magnaporthe;Xanthomonas;pathogen_pressure,nitrogen_limitation,paddy_subtropical,6.0,Profile aggregated from rice rows: blast, bacterial leaf blight and nitrogen-fixing growth promotion
+potato,Solanum tuberosum,tuber,,Phytophthora;Rhizoctonia;Streptomyces;late_blight;pathogen_pressure,phosphorus_deficiency,temperate,5.8,Profile aggregated from potato rows: late blight, Rhizoctonia, common scab and tuber growth constraints
+tomato,Solanum lycopersicum,vegetable,transplant_stress,Fusarium;Verticillium;pathogen_pressure,phosphorus_deficiency,greenhouse_temperate,6.2,Profile aggregated from tomato rows: Fusarium/Verticillium wilt and root development after transplanting
+soybean,Glycine max,legume,salinity,Fusarium;pathogen_pressure,nitrogen_limitation,temperate,6.4,Profile aggregated from soybean rows: Fusarium seedling disease, nodulation and nitrogen fixation focus
+pea,Pisum sativum,legume,seed_protein,Fusarium;pathogen_pressure,nitrogen_limitation,temperate,6.5,Profile aggregated from pea rows: Fusarium root disease and nitrogen/protein accumulation
+common_bean,Phaseolus vulgaris,legume,growth_promotion,Colletotrichum;pathogen_pressure,iron_deficiency;phosphorus_deficiency,warm_temperate,6.3,Profile aggregated from bean rows: anthracnose, iron/phosphorus availability and vegetative biomass stimulation
+tobacco,Nicotiana tabacum,industrial,systemic_immunity,Phytophthora;TMV;viral_pressure;pathogen_pressure,,warm_temperate,5.8,Profile aggregated from tobacco rows: black shank, tobacco mosaic virus and ISR priming
+sunflower,Helianthus annuus,oilseed,drought,Sclerotinia;pathogen_pressure,phosphorus_deficiency,steppe,6.9,Profile aggregated from sunflower rows: drought, Sclerotinia and phosphorus-linked oilseed productivity

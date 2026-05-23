@@ -1,16 +1,376 @@
-strain_id,genus,species,strain_name,isolation_source,host_plant,genome_accession,taxonomy_confidence,formulation_notes,is_spore_former,notes
-PBM001,Bacillus,velezensis,BV-101,rhizosphere,wheat,GCF_DEMO_000001,0.98,stable dry powder candidate,true,synthetic demo strain
-PBM002,Bacillus,subtilis,BS-22,compost,wheat,GCF_DEMO_000002,0.97,stable spores in carrier,true,synthetic demo strain
-PBM003,Pseudomonas,fluorescens,PF-8,rhizosphere,potato,GCF_DEMO_000003,0.94,liquid formulation candidate,false,synthetic demo strain
-PBM004,Azospirillum,brasilense,AB-15,root endosphere,wheat,GCF_DEMO_000004,0.93,peat inoculant candidate,false,synthetic demo strain
-PBM005,Paenibacillus,polymyxa,PP-4,rhizosphere,sunflower,GCF_DEMO_000005,0.95,stable spore-forming candidate,true,synthetic demo strain
-PBM006,Streptomyces,griseus,SG-3,soil,potato,GCF_DEMO_000006,0.92,granular formulation candidate,false,synthetic demo strain
-PBM007,Bradyrhizobium,japonicum,BJ-11,nodule,soybean,GCF_DEMO_000007,0.99,peat inoculant standard,false,synthetic demo strain
-PBM008,Rhizobium,leguminosarum,RL-2,nodule,soybean,GCF_DEMO_000008,0.96,peat inoculant candidate,false,synthetic demo strain
-PBM009,Paraburkholderia,phytofirmans,PPhy-9,endosphere,sunflower,GCF_DEMO_000009,0.91,requires careful taxonomy review,false,synthetic demo strain
-PBM010,Enterobacter,cloacae,EC-6,rhizosphere,wheat,GCF_DEMO_000010,0.9,not prioritized for formulation,false,risky genus synthetic demo
-PBM011,Serratia,marcescens,SM-1,rhizosphere,potato,GCF_DEMO_000011,0.93,not prioritized for formulation,false,risky genus synthetic demo
-PBM012,Klebsiella,variicola,KV-5,rhizosphere,maize,GCF_DEMO_000012,0.92,not prioritized for formulation,false,risky genus synthetic demo
-PBM013,Arthrobacter,sp.,A-7,bulk soil,sunflower,,0.82,desiccation tolerant candidate,false,missing genome demo
-PBM014,Pseudarthrobacter,sp.,PA-2,rhizosphere,wheat,GCF_DEMO_000014,0.86,dry carrier candidate,false,synthetic demo strain
-
+id,genus,species,strain,niche,target_crop,genome_accession,taxonomy_confidence,formulation_notes,is_spore_former,notes
+PBM001,Azospirillum,isscasi,BD-101,rhizosphere,rice,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 175857
+PBM002,Azospirillum,thermophilum,BD-102,soil,soybean,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 167820
+PBM003,Azospirillum,baldaniorum,BD-103,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 167292
+PBM004,Azospirillum,sp.,BD-104,plant_associated,rice,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 161536
+PBM005,Azospirillum,sp.,BD-105,soil,rice,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 161518
+PBM006,Azospirillum,sp.,BD-106,soil,rice,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 161517
+PBM007,Azospirillum,brasilense,BD-107,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 146216
+PBM008,Azospirillum,brasilense,BD-108,rhizosphere,tobacco,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 138933
+PBM009,Azospirillum,lipoferum,BD-109,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 137718
+PBM010,Azospirillum,zeae,BD-110,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 134266
+PBM011,Azospirillum,canadense,BD-111,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 134232
+PBM012,Azospirillum,melinis,BD-112,plant_associated,wheat,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 134169
+PBM013,Azospirillum,oryzae,BD-113,rhizosphere,rice,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 134118
+PBM014,Azospirillum,thiophilum,BD-114,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 14000
+PBM015,Azospirillum,picis,BD-115,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 13999
+PBM016,Azospirillum,rugosum,BD-116,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 13998
+PBM017,Azospirillum,largimobile,BD-117,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 13984
+PBM018,Azospirillum,largimobile,BD-118,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 13983
+PBM019,Azospirillum,brasilense,BD-119,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 13980
+PBM020,Azospirillum,brasilense,BD-120,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 13973
+PBM021,Azospirillum,brasilense,BD-121,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 13972
+PBM022,Pseudomonas,fluorescens,BD-122,plant_associated,soybean,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 12853
+PBM023,Pseudomonas,fluorescens,BD-123,soil,rye,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 12852
+PBM024,Pseudomonas,fluorescens,BD-124,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 12851
+PBM025,Pseudomonas,fluorescens,BD-125,rhizosphere,soybean,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 12846
+PBM026,Pseudomonas,fluorescens,BD-126,rhizosphere,soybean,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 12845
+PBM027,Pseudomonas,fluorescens,BD-127,soil,soybean,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 12844
+PBM028,Pseudomonas,fluorescens,BD-128,soil,soybean,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 12835
+PBM029,Pseudomonas,fluorescens,BD-129,soil,soybean,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 12834
+PBM030,Pseudomonas,fluorescens,BD-130,soil,soybean,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 12833
+PBM031,Pseudomonas,citronellolis,BD-131,plant_associated,soybean,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 12821
+PBM032,Pseudomonas,cichorii,BD-132,phyllosphere,tomato,none_found,0.95,foliar spray formulation candidate,false,extracted from bacdive dataset dsmz id 12817
+PBM033,Pseudomonas,aureofaciens,BD-133,rhizosphere,potato,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 12816
+PBM034,Pseudomonas,alcaligenes,BD-134,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 12807
+PBM035,Pseudomonas,aeruginosa,BD-135,rhizosphere,rye,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 12801
+PBM036,Pseudomonas,aeruginosa,BD-136,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 12800
+PBM037,Pseudomonas,aeruginosa,BD-137,phyllosphere,sunflower,none_found,0.95,foliar spray formulation candidate,false,extracted from bacdive dataset dsmz id 12795
+PBM038,Pseudomonas,aeruginosa,BD-138,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 12784
+PBM039,Pseudomonas,aeruginosa,BD-139,soil,wheat,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 12768
+PBM040,Pseudomonas,aeruginosa,BD-140,phyllosphere,soybean,none_found,0.95,foliar spray formulation candidate,false,extracted from bacdive dataset dsmz id 12764
+PBM041,Pseudomonas,aeruginosa,BD-141,rhizosphere,tomato,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 12760
+PBM042,Pseudomonas,aeruginosa,BD-142,rhizosphere,rice,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 12759
+PBM043,Pseudomonas,aeruginosa,BD-143,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 12758
+PBM044,Pseudomonas,sp.,BD-144,rhizosphere,soybean,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 12963
+PBM045,Pseudomonas,sp.,BD-145,soil,soybean,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 12953
+PBM046,Pseudomonas,sp.,BD-146,plant_associated,soybean,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 12952
+PBM047,Pseudomonas,sp.,BD-147,soil,soybean,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 12943
+PBM048,Pseudomonas,savastanoi,BD-148,plant_associated,bean,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 12931
+PBM049,Pseudomonas,savastanoi,BD-149,plant_associated,bean,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 12930
+PBM050,Pseudomonas,savastanoi,BD-150,plant_associated,bean,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 12929
+PBM051,Pseudomonas,savastanoi,BD-151,phyllosphere,soybean,none_found,0.95,foliar spray formulation candidate,false,extracted from bacdive dataset dsmz id 12928
+PBM052,Pseudomonas,putida,BD-152,plant_associated,soybean,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 12911
+PBM053,Pseudomonas,putida,BD-153,plant_associated,soybean,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 12909
+PBM054,Pseudomonas,putida,BD-154,soil,soybean,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 12904
+PBM055,Pseudomonas,putida,BD-155,rhizosphere,barley,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 12899
+PBM056,Pseudomonas,putida,BD-156,rhizosphere,potato,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 12896
+PBM057,Pseudomonas,sp.,BD-157,soil,tomato,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 12879
+PBM058,Pseudomonas,putida,BD-158,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 12871
+PBM059,Pseudomonas,oleovorans,BD-159,plant_associated,soybean,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 12868
+PBM060,Pseudomonas,oleovorans,BD-160,rhizosphere,rice,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 12867
+PBM061,Pseudomonas,mendocina,BD-161,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 12866
+PBM062,Pseudomonas,grimontii,BD-162,rhizosphere,potato,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 12865
+PBM063,Pseudomonas,rhodesiae,BD-163,plant_associated,pea,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 12862
+PBM064,Pseudomonas,fluorescens,BD-164,endosphere,tomato,none_found,0.95,seed dressing formulation candidate,false,extracted from bacdive dataset dsmz id 12858
+PBM065,Pseudomonas,fluorescens,BD-165,soil,tomato,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 12854
+PBM066,Pseudomonas,brenneri,BD-166,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 13087
+PBM067,Pseudomonas,plecoglossicida,BD-167,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 13086
+PBM068,Pseudomonas,congelans,BD-168,endosphere,soybean,none_found,0.95,seed dressing formulation candidate,false,extracted from bacdive dataset dsmz id 13085
+PBM069,Pseudomonas,trivialis,BD-169,rhizosphere,soybean,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 13084
+PBM070,Pseudomonas,poae,BD-170,endosphere,soybean,none_found,0.95,seed dressing formulation candidate,false,extracted from bacdive dataset dsmz id 13083
+PBM071,Pseudomonas,nitroreducens,BD-171,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 13080
+PBM072,Pseudomonas,nitroreducens,BD-172,soil,soybean,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 13077
+PBM073,Pseudomonas,nitroreducens,BD-173,endosphere,bean,none_found,0.95,seed dressing formulation candidate,false,extracted from bacdive dataset dsmz id 13076
+PBM074,Pseudomonas,thermotolerans,BD-174,soil,soybean,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 13075
+PBM075,Pseudomonas,monteilii,BD-175,rhizosphere,rice,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 13074
+PBM076,Pseudomonas,kilonensis,BD-176,rhizosphere,bean,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 13070
+PBM077,Pseudomonas,brassicacearum,BD-177,rhizosphere,bean,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 13068
+PBM078,Pseudomonas,thivervalensis,BD-178,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 13066
+PBM079,Pseudomonas,frederiksbergensis,BD-179,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 13063
+PBM080,Pseudomonas,graminis,BD-180,rhizosphere,soybean,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 13062
+PBM081,Pseudomonas,agarici,BD-181,endosphere,tomato,none_found,0.95,seed dressing formulation candidate,false,extracted from bacdive dataset dsmz id 13059
+PBM082,Pseudomonas,veronii,BD-182,rhizosphere,barley,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 13055
+PBM083,Pseudomonas,tolaasii,BD-183,endosphere,potato,none_found,0.95,seed dressing formulation candidate,false,extracted from bacdive dataset dsmz id 13053
+PBM084,Pseudomonas,amygdali,BD-184,soil,tomato,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 13051
+PBM085,Pseudomonas,asplenii,BD-185,phyllosphere,rice,none_found,0.95,foliar spray formulation candidate,false,extracted from bacdive dataset dsmz id 13049
+PBM086,Pseudomonas,oryzihabitans,BD-186,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 13048
+PBM087,Pseudomonas,corrugata,BD-187,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 13044
+PBM088,Pseudomonas,sp.,BD-188,plant_associated,soybean,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 13043
+PBM089,Pseudomonas,syringae,BD-189,plant_associated,tomato,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 13040
+PBM090,Pseudomonas,syringae,BD-190,phyllosphere,bean,none_found,0.95,foliar spray formulation candidate,false,extracted from bacdive dataset dsmz id 13032
+PBM091,Pseudomonas,syringae,BD-191,plant_associated,soybean,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 13030
+PBM092,Pseudomonas,syringae,BD-192,plant_associated,soybean,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 13028
+PBM093,Pseudomonas,syringae,BD-193,plant_associated,wheat,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 13027
+PBM094,Pseudomonas,syringae,BD-194,plant_associated,wheat,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 13026
+PBM095,Pseudomonas,syringae,BD-195,rhizosphere,soybean,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 13025
+PBM096,Pseudomonas,syringae,BD-196,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 13024
+PBM097,Pseudomonas,syringae,BD-197,plant_associated,tobacco,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 13022
+PBM098,Pseudomonas,syringae,BD-198,soil,potato,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 13020
+PBM099,Pseudomonas,viridiflava,BD-199,rhizosphere,tomato,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 13016
+PBM100,Pseudomonas,sp.,BD-200,plant_associated,soybean,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 12973
+PBM101,Pseudomonas,syringae,BD-201,soil,pea,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 23205
+PBM102,Pseudomonas,baetica,BD-202,soil,wheat,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 13189
+PBM103,Pseudomonas,saponiphila,BD-203,endosphere,rice,none_found,0.95,seed dressing formulation candidate,false,extracted from bacdive dataset dsmz id 13187
+PBM104,Pseudomonas,deceptionensis,BD-204,soil,soybean,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 13185
+PBM105,Pseudomonas,taiwanensis,BD-205,rhizosphere,barley,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 13180
+PBM106,Pseudomonas,lubricantis,BD-206,rhizosphere,soybean,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 13179
+PBM107,Pseudomonas,neoaurantiaca,BD-207,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 13174
+PBM108,Pseudomonas,ficuserectae,BD-208,endosphere,soybean,none_found,0.95,seed dressing formulation candidate,false,extracted from bacdive dataset dsmz id 13168
+PBM109,Pseudomonas,japonica,BD-209,endosphere,wheat,none_found,0.95,seed dressing formulation candidate,false,extracted from bacdive dataset dsmz id 13165
+PBM110,Pseudomonas,guineae,BD-210,soil,soybean,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 13161
+PBM111,Pseudomonas,chlororaphis,BD-211,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 13160
+PBM112,Pseudomonas,aurantiaca,BD-212,rhizosphere,barley,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 13159
+PBM113,Pseudomonas,aureofaciens,BD-213,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 13158
+PBM114,Pseudomonas,moorei,BD-214,rhizosphere,tobacco,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 13157
+PBM115,Pseudomonas,protegens,BD-215,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 13154
+PBM116,Pseudomonas,vranovensis,BD-216,soil,tobacco,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 13150
+PBM117,Pseudomonas,resinovorans,BD-217,endosphere,wheat,none_found,0.95,seed dressing formulation candidate,false,extracted from bacdive dataset dsmz id 13147
+PBM118,Pseudomonas,beteli,BD-218,endosphere,cotton,none_found,0.95,seed dressing formulation candidate,false,extracted from bacdive dataset dsmz id 13142
+PBM119,Pseudomonas,azotoformans,BD-219,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 13141
+PBM120,Pseudomonas,straminea,BD-220,soil,rice,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 13128
+PBM121,Pseudomonas,fulva,BD-221,endosphere,rice,none_found,0.95,seed dressing formulation candidate,false,extracted from bacdive dataset dsmz id 13126
+PBM122,Pseudomonas,psychrophila,BD-222,soil,soybean,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 13120
+PBM123,Pseudomonas,mosselii,BD-223,phyllosphere,rice,none_found,0.95,foliar spray formulation candidate,false,extracted from bacdive dataset dsmz id 13117
+PBM124,Pseudomonas,lutea,BD-224,rhizosphere,tobacco,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 13114
+PBM125,Pseudomonas,jessenii,BD-225,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 13111
+PBM126,Pseudomonas,gessardii,BD-226,rhizosphere,rice,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 13110
+PBM127,Pseudomonas,cremoricolorata,BD-227,rhizosphere,rice,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 13109
+PBM128,Pseudomonas,parafulva,BD-228,endosphere,rice,none_found,0.95,seed dressing formulation candidate,false,extracted from bacdive dataset dsmz id 13108
+PBM129,Pseudomonas,palleroniana,BD-229,rhizosphere,rice,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 13107
+PBM130,Pseudomonas,lini,BD-230,rhizosphere,barley,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 13106
+PBM131,Pseudomonas,psychrotolerans,BD-231,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 13105
+PBM132,Pseudomonas,mediterranea,BD-232,soil,tomato,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 13102
+PBM133,Pseudomonas,koreensis,BD-233,phyllosphere,wheat,none_found,0.95,foliar spray formulation candidate,false,extracted from bacdive dataset dsmz id 13097
+PBM134,Pseudomonas,rhizosphaerae,BD-234,rhizosphere,tobacco,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 13096
+PBM135,Pseudomonas,proteolytica,BD-235,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 13095
+PBM136,Pseudomonas,antarctica,BD-236,rhizosphere,rice,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 13093
+PBM137,Pseudomonas,lurida,BD-237,endosphere,wheat,none_found,0.95,seed dressing formulation candidate,false,extracted from bacdive dataset dsmz id 13092
+PBM138,Pseudomonas,extremorientalis,BD-238,soil,wheat,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 13091
+PBM139,Pseudomonas,aeruginosa,BD-239,rhizosphere,cotton,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 130996
+PBM140,Pseudomonas,granadensis,BD-240,endosphere,wheat,none_found,0.95,seed dressing formulation candidate,false,extracted from bacdive dataset dsmz id 130577
+PBM141,Pseudomonas,guangdongensis,BD-241,soil,rice,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 130575
+PBM142,Pseudomonas,asturiensis,BD-242,phyllosphere,soybean,none_found,0.95,foliar spray formulation candidate,false,extracted from bacdive dataset dsmz id 130574
+PBM143,Pseudomonas,aeruginosa,BD-243,plant_associated,tomato,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 130565
+PBM144,Pseudomonas,aeruginosa,BD-244,plant_associated,soybean,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 24865
+PBM145,Pseudomonas,sagittaria,BD-245,soil,rice,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 24439
+PBM146,Pseudomonas,punonensis,BD-246,soil,potato,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 24438
+PBM147,Pseudomonas,entomophila,BD-247,phyllosphere,rice,none_found,0.95,foliar spray formulation candidate,false,extracted from bacdive dataset dsmz id 24436
+PBM148,Pseudomonas,syringae,BD-248,plant_associated,wheat,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 24421
+PBM149,Pseudomonas,syringae,BD-249,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 24420
+PBM150,Pseudomonas,viridiflava,BD-250,endosphere,tomato,none_found,0.95,seed dressing formulation candidate,false,extracted from bacdive dataset dsmz id 24401
+PBM151,Pseudomonas,fluorescens,BD-251,rhizosphere,bean,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 24373
+PBM152,Pseudomonas,savastanoi,BD-252,plant_associated,soybean,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 134749
+PBM153,Pseudomonas,aeruginosa,BD-253,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 134453
+PBM154,Pseudomonas,putida,BD-254,phyllosphere,soybean,none_found,0.95,foliar spray formulation candidate,false,extracted from bacdive dataset dsmz id 134429
+PBM155,Pseudomonas,canadensis,BD-255,soil,soybean,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 133410
+PBM156,Pseudomonas,turukhanskensis,BD-256,rhizosphere,pea,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 133231
+PBM157,Pseudomonas,kribbensis,BD-257,rhizosphere,soybean,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 131891
+PBM158,Pseudomonas,donghuensis,BD-258,soil,potato,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 131382
+PBM159,Pseudomonas,frederiksbergensis,BD-259,soil,soybean,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 131078
+PBM160,Pseudomonas,putida,BD-260,rhizosphere,cotton,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 130999
+PBM161,Pseudomonas,aeruginosa,BD-261,plant_associated,wheat,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 137804
+PBM162,Pseudomonas,aeruginosa,BD-262,plant_associated,sunflower,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 136459
+PBM163,Pseudomonas,putida,BD-263,soil,tomato,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 135753
+PBM164,Pseudomonas,oryzihabitans,BD-264,plant_associated,cotton,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 141648
+PBM165,Pseudomonas,fluorescens,BD-265,soil,tomato,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 141379
+PBM166,Pseudomonas,reidholzensis,BD-266,endosphere,tobacco,none_found,0.95,seed dressing formulation candidate,false,extracted from bacdive dataset dsmz id 140983
+PBM167,Pseudomonas,wadenswilerensis,BD-267,soil,tobacco,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 140982
+PBM168,Pseudomonas,populi,BD-268,endosphere,soybean,none_found,0.95,seed dressing formulation candidate,false,extracted from bacdive dataset dsmz id 140904
+PBM169,Pseudomonas,lactis,BD-269,endosphere,wheat,none_found,0.95,seed dressing formulation candidate,false,extracted from bacdive dataset dsmz id 140299
+PBM170,Pseudomonas,viridiflava,BD-270,plant_associated,bean,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 144183
+PBM171,Pseudomonas,syringae,BD-271,plant_associated,soybean,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 142734
+PBM172,Pseudomonas,syringae,BD-272,phyllosphere,bean,none_found,0.95,foliar spray formulation candidate,false,extracted from bacdive dataset dsmz id 142732
+PBM173,Pseudomonas,fluorescens,BD-273,soil,tomato,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 153803
+PBM174,Pseudomonas,viridiflava,BD-274,plant_associated,bean,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 157487
+PBM175,Pseudomonas,syringae,BD-275,plant_associated,pea,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 157475
+PBM176,Pseudomonas,syringae,BD-276,phyllosphere,bean,none_found,0.95,foliar spray formulation candidate,false,extracted from bacdive dataset dsmz id 157473
+PBM177,Pseudomonas,syringae,BD-277,plant_associated,tobacco,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 157456
+PBM178,Pseudomonas,syringae,BD-278,plant_associated,wheat,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 157454
+PBM179,Pseudomonas,syringae,BD-279,plant_associated,soybean,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 157453
+PBM180,Pseudomonas,syringae,BD-280,plant_associated,bean,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 157447
+PBM181,Pseudomonas,marginalis,BD-281,plant_associated,bean,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 157434
+PBM182,Pseudomonas,corrugata,BD-282,plant_associated,tomato,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 157426
+PBM183,Pseudomonas,cichorii,BD-283,plant_associated,tobacco,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 157422
+PBM184,Pseudomonas,hydrolytica,BD-284,soil,soybean,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 160316
+PBM185,Pseudomonas,saxonica,BD-285,plant_associated,soybean,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 159624
+PBM186,Pseudomonas,saxonica,BD-286,plant_associated,soybean,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 159623
+PBM187,Pseudomonas,moraviensis,BD-287,phyllosphere,soybean,none_found,0.95,foliar spray formulation candidate,false,extracted from bacdive dataset dsmz id 159531
+PBM188,Pseudomonas,floridensis,BD-288,phyllosphere,tomato,none_found,0.95,foliar spray formulation candidate,false,extracted from bacdive dataset dsmz id 158761
+PBM189,Pseudomonas,salomonii,BD-289,soil,rice,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 158046
+PBM190,Pseudomonas,sp.,BD-290,rhizosphere,rice,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 157811
+PBM191,Pseudomonas,putida,BD-291,plant_associated,rice,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 162815
+PBM192,Pseudomonas,aeruginosa,BD-292,soil,rice,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 162724
+PBM193,Pseudomonas,putida,BD-293,soil,rice,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 162701
+PBM194,Pseudomonas,oryzihabitans,BD-294,plant_associated,rice,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 164841
+PBM195,Pseudomonas,oryzihabitans,BD-295,plant_associated,rice,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 164840
+PBM196,Pseudomonas,oryzihabitans,BD-296,plant_associated,rice,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 164839
+PBM197,Pseudomonas,oryzihabitans,BD-297,plant_associated,rice,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 164838
+PBM198,Pseudomonas,oryzihabitans,BD-298,plant_associated,rice,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 164837
+PBM199,Pseudomonas,oryzihabitans,BD-299,plant_associated,rice,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 164836
+PBM200,Pseudomonas,oryzihabitans,BD-300,plant_associated,rice,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 164835
+PBM201,Pseudomonas,oryzihabitans,BD-301,plant_associated,rice,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 164834
+PBM202,Pseudomonas,oryzihabitans,BD-302,plant_associated,rice,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 164833
+PBM203,Pseudomonas,oryzihabitans,BD-303,plant_associated,rice,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 164832
+PBM204,Pseudomonas,oryzihabitans,BD-304,plant_associated,rice,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 164830
+PBM205,Pseudomonas,oryzihabitans,BD-305,plant_associated,rice,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 164829
+PBM206,Pseudomonas,akappageensis,BD-306,soil,soybean,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 164624
+PBM207,Pseudomonas,rhizoryzae,BD-307,soil,rice,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 164481
+PBM208,Pseudomonas,laurentiana,BD-308,soil,tobacco,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 164208
+PBM209,Pseudomonas,aeruginosa,BD-309,soil,wheat,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 163413
+PBM210,Pseudomonas,glycinae,BD-310,rhizosphere,soybean,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 166380
+PBM211,Pseudomonas,nitroreducens,BD-311,soil,wheat,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 170026
+PBM212,Pseudomonas,crudilactis,BD-312,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 169712
+PBM213,Pseudomonas,sp.,BD-313,plant_associated,soybean,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 169279
+PBM214,Pseudomonas,prosekii,BD-314,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 169070
+PBM215,Pseudomonas,haemolytica,BD-315,plant_associated,soybean,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 168358
+PBM216,Pseudomonas,endophytica,BD-316,endosphere,potato,none_found,0.95,seed dressing formulation candidate,false,extracted from bacdive dataset dsmz id 168177
+PBM217,Pseudomonas,coleopterorum,BD-317,phyllosphere,tobacco,none_found,0.95,foliar spray formulation candidate,false,extracted from bacdive dataset dsmz id 168067
+PBM218,Pseudomonas,linyingensis,BD-318,soil,wheat,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 168024
+PBM219,Pseudomonas,cyclaminis,BD-319,soil,wheat,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 167286
+PBM220,Pseudomonas,brassicae,BD-320,soil,tobacco,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 167249
+PBM221,Pseudomonas,viciae,BD-321,rhizosphere,bean,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 167123
+PBM222,Pseudomonas,alvandae,BD-322,rhizosphere,bean,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 166864
+PBM223,Pseudomonas,palmensis,BD-323,soil,tobacco,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 166816
+PBM224,Pseudomonas,bijieensis,BD-324,rhizosphere,bean,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 166756
+PBM225,Pseudomonas,allii,BD-325,rhizosphere,tomato,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 166666
+PBM226,Pseudomonas,sp.,BD-326,rhizosphere,rice,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 173621
+PBM227,Pseudomonas,nunensis,BD-327,soil,potato,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 170568
+PBM228,Pseudomonas,oryzagri,BD-328,soil,rice,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 170043
+PBM229,Pseudomonas,lijiangensis,BD-329,plant_associated,tobacco,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 170042
+PBM230,Pseudomonas,triticifolii,BD-330,phyllosphere,wheat,none_found,0.95,foliar spray formulation candidate,false,extracted from bacdive dataset dsmz id 170028
+PBM231,Pseudomonas,folii,BD-331,phyllosphere,wheat,none_found,0.95,foliar spray formulation candidate,false,extracted from bacdive dataset dsmz id 170027
+PBM232,Pseudomonas,sp.,BD-332,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 176547
+PBM233,Pseudomonas,sp.,BD-333,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 176546
+PBM234,Pseudomonas,sp.,BD-334,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 176545
+PBM235,Pseudomonas,sp.,BD-335,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 176544
+PBM236,Pseudomonas,sp.,BD-336,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 176543
+PBM237,Pseudomonas,sp.,BD-337,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 176542
+PBM238,Pseudomonas,sp.,BD-338,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 176541
+PBM239,Pseudomonas,sp.,BD-339,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 176540
+PBM240,Pseudomonas,sp.,BD-340,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 176539
+PBM241,Pseudomonas,sp.,BD-341,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 176538
+PBM242,Pseudomonas,sp.,BD-342,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 176537
+PBM243,Pseudomonas,sp.,BD-343,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 176536
+PBM244,Pseudomonas,fontis,BD-344,plant_associated,soybean,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 176002
+PBM245,Pseudomonas,aphyarum,BD-345,plant_associated,soybean,none_found,0.95,universal bioinoculant candidate,false,extracted from bacdive dataset dsmz id 176000
+PBM246,Pseudomonas,serboccidentalis,BD-346,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 175993
+PBM247,Pseudomonas,serbica,BD-347,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 175992
+PBM248,Pseudomonas,beijingensis,BD-348,rhizosphere,rice,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 175988
+PBM249,Pseudomonas,pergaminensis,BD-349,soil,wheat,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 174705
+PBM250,Pseudomonas,brassicacearum,BD-350,soil,wheat,none_found,0.95,soil drench or in-furrow application,false,extracted from bacdive dataset dsmz id 176791
+PBM251,Pseudomonas,sp.,BD-351,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 176554
+PBM252,Pseudomonas,sp.,BD-352,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 176553
+PBM253,Pseudomonas,sp.,BD-353,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 176552
+PBM254,Pseudomonas,sp.,BD-354,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,false,extracted from bacdive dataset dsmz id 176551
+PBM255,Bacillus,pumilus,BD-355,soil,soybean,none_found,0.95,soil drench or in-furrow application,true,extracted from bacdive dataset dsmz id 752
+PBM256,Bacillus,mycoides,BD-356,rhizosphere,rice,none_found,0.95,liquid or peat carrier for root application,true,extracted from bacdive dataset dsmz id 745
+PBM257,Bacillus,licheniformis,BD-357,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,true,extracted from bacdive dataset dsmz id 689
+PBM258,Bacillus,coagulans,BD-358,soil,tomato,none_found,0.95,soil drench or in-furrow application,true,extracted from bacdive dataset dsmz id 654
+PBM259,Bacillus,coagulans,BD-359,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,true,extracted from bacdive dataset dsmz id 650
+PBM260,Bacillus,coagulans,BD-360,plant_associated,tomato,none_found,0.95,universal bioinoculant candidate,true,extracted from bacdive dataset dsmz id 649
+PBM261,Bacillus,circulans,BD-361,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,true,extracted from bacdive dataset dsmz id 642
+PBM262,Bacillus,cereus,BD-362,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,true,extracted from bacdive dataset dsmz id 628
+PBM263,Bacillus,cereus,BD-363,soil,soybean,none_found,0.95,soil drench or in-furrow application,true,extracted from bacdive dataset dsmz id 626
+PBM264,Bacillus,cereus,BD-364,rhizosphere,soybean,none_found,0.95,liquid or peat carrier for root application,true,extracted from bacdive dataset dsmz id 625
+PBM265,Bacillus,cereus,BD-365,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,true,extracted from bacdive dataset dsmz id 624
+PBM266,Bacillus,cereus,BD-366,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,true,extracted from bacdive dataset dsmz id 623
+PBM267,Bacillus,cereus,BD-367,soil,rice,none_found,0.95,soil drench or in-furrow application,true,extracted from bacdive dataset dsmz id 621
+PBM268,Bacillus,cereus,BD-368,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,true,extracted from bacdive dataset dsmz id 605
+PBM269,Bacillus,amyloliquefaciens,BD-369,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,true,extracted from bacdive dataset dsmz id 598
+PBM270,Bacillus,smithii,BD-370,rhizosphere,soybean,none_found,0.95,liquid or peat carrier for root application,true,extracted from bacdive dataset dsmz id 815
+PBM271,Bacillus,pumilus,BD-371,plant_associated,soybean,none_found,0.95,universal bioinoculant candidate,true,extracted from bacdive dataset dsmz id 757
+PBM272,Bacillus,pumilus,BD-372,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,true,extracted from bacdive dataset dsmz id 756
+PBM273,Bacillus,pumilus,BD-373,endosphere,tobacco,none_found,0.95,seed dressing formulation candidate,true,extracted from bacdive dataset dsmz id 754
+PBM274,Bacillus,subtilis,BD-374,rhizosphere,potato,none_found,0.95,liquid or peat carrier for root application,true,extracted from bacdive dataset dsmz id 979
+PBM275,Bacillus,subtilis,BD-375,endosphere,tobacco,none_found,0.95,seed dressing formulation candidate,true,extracted from bacdive dataset dsmz id 976
+PBM276,Bacillus,subtilis,BD-376,rhizosphere,barley,none_found,0.95,liquid or peat carrier for root application,true,extracted from bacdive dataset dsmz id 967
+PBM277,Bacillus,subtilis,BD-377,soil,soybean,none_found,0.95,soil drench or in-furrow application,true,extracted from bacdive dataset dsmz id 966
+PBM278,Bacillus,subtilis,BD-378,soil,soybean,none_found,0.95,soil drench or in-furrow application,true,extracted from bacdive dataset dsmz id 965
+PBM279,Bacillus,subtilis,BD-379,soil,pea,none_found,0.95,soil drench or in-furrow application,true,extracted from bacdive dataset dsmz id 964
+PBM280,Bacillus,halotolerans,BD-380,endosphere,tomato,none_found,0.95,seed dressing formulation candidate,true,extracted from bacdive dataset dsmz id 1095
+PBM281,Bacillus,mojavensis,BD-381,rhizosphere,pea,none_found,0.95,liquid or peat carrier for root application,true,extracted from bacdive dataset dsmz id 1093
+PBM282,Bacillus,atrophaeus,BD-382,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,true,extracted from bacdive dataset dsmz id 1077
+PBM283,Bacillus,benzoevorans,BD-383,soil,soybean,none_found,0.95,soil drench or in-furrow application,true,extracted from bacdive dataset dsmz id 1071
+PBM284,Bacillus,benzoevorans,BD-384,rhizosphere,rice,none_found,0.95,liquid or peat carrier for root application,true,extracted from bacdive dataset dsmz id 1069
+PBM285,Bacillus,thuringiensis,BD-385,soil,barley,none_found,0.95,soil drench or in-furrow application,true,extracted from bacdive dataset dsmz id 1045
+PBM286,Bacillus,thuringiensis,BD-386,soil,soybean,none_found,0.95,soil drench or in-furrow application,true,extracted from bacdive dataset dsmz id 1012
+PBM287,Bacillus,thuringiensis,BD-387,rhizosphere,barley,none_found,0.95,liquid or peat carrier for root application,true,extracted from bacdive dataset dsmz id 1006
+PBM288,Bacillus,subtilis,BD-388,rhizosphere,rice,none_found,0.95,liquid or peat carrier for root application,true,extracted from bacdive dataset dsmz id 1003
+PBM289,Bacillus,halotolerans,BD-389,endosphere,cotton,none_found,0.95,seed dressing formulation candidate,true,extracted from bacdive dataset dsmz id 1847
+PBM290,Bacillus,cytotoxicus,BD-390,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,true,extracted from bacdive dataset dsmz id 1323
+PBM291,Bacillus,timonensis,BD-391,soil,rice,none_found,0.95,soil drench or in-furrow application,true,extracted from bacdive dataset dsmz id 1320
+PBM292,Bacillus,velezensis,BD-392,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,true,extracted from bacdive dataset dsmz id 1310
+PBM293,Bacillus,siamensis,BD-393,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,true,extracted from bacdive dataset dsmz id 1302
+PBM294,Bacillus,inaquosorum,BD-394,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,true,extracted from bacdive dataset dsmz id 1289
+PBM295,Bacillus,infantis,BD-395,rhizosphere,soybean,none_found,0.95,liquid or peat carrier for root application,true,extracted from bacdive dataset dsmz id 1265
+PBM296,Bacillus,safensis,BD-396,endosphere,soybean,none_found,0.95,seed dressing formulation candidate,true,extracted from bacdive dataset dsmz id 1264
+PBM297,Bacillus,altitudinis,BD-397,soil,soybean,none_found,0.95,soil drench or in-furrow application,true,extracted from bacdive dataset dsmz id 1263
+PBM298,Bacillus,methanolicus,BD-398,soil,soybean,none_found,0.95,soil drench or in-furrow application,true,extracted from bacdive dataset dsmz id 1231
+PBM299,Bacillus,sonorensis,BD-399,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,true,extracted from bacdive dataset dsmz id 1201
+PBM300,Bacillus,subtilis,BD-400,plant_associated,soybean,none_found,0.95,universal bioinoculant candidate,true,extracted from bacdive dataset dsmz id 1186
+PBM301,Bacillus,subtilis,BD-401,plant_associated,soybean,none_found,0.95,universal bioinoculant candidate,true,extracted from bacdive dataset dsmz id 1176
+PBM302,Bacillus,subtilis,BD-402,plant_associated,soybean,none_found,0.95,universal bioinoculant candidate,true,extracted from bacdive dataset dsmz id 1175
+PBM303,Bacillus,subtilis,BD-403,plant_associated,soybean,none_found,0.95,universal bioinoculant candidate,true,extracted from bacdive dataset dsmz id 1173
+PBM304,Bacillus,subtilis,BD-404,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,true,extracted from bacdive dataset dsmz id 1172
+PBM305,Bacillus,subtilis,BD-405,rhizosphere,soybean,none_found,0.95,liquid or peat carrier for root application,true,extracted from bacdive dataset dsmz id 1156
+PBM306,Bacillus,mycoides,BD-406,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,true,extracted from bacdive dataset dsmz id 1153
+PBM307,Bacillus,pseudomycoides,BD-407,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,true,extracted from bacdive dataset dsmz id 1151
+PBM308,Bacillus,vallismortis,BD-408,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,true,extracted from bacdive dataset dsmz id 1150
+PBM309,Bacillus,tianshenii,BD-409,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,true,extracted from bacdive dataset dsmz id 23717
+PBM310,Bacillus,velezensis,BD-410,rhizosphere,rice,none_found,0.95,liquid or peat carrier for root application,true,extracted from bacdive dataset dsmz id 23706
+PBM311,Bacillus,bingmayongensis,BD-411,rhizosphere,rice,none_found,0.95,liquid or peat carrier for root application,true,extracted from bacdive dataset dsmz id 23663
+PBM312,Bacillus,subtilis,BD-412,plant_associated,tobacco,none_found,0.95,universal bioinoculant candidate,true,extracted from bacdive dataset dsmz id 135255
+PBM313,Bacillus,tequilensis,BD-413,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,true,extracted from bacdive dataset dsmz id 134164
+PBM314,Bacillus,halotolerans,BD-414,endosphere,tomato,none_found,0.95,seed dressing formulation candidate,true,extracted from bacdive dataset dsmz id 134137
+PBM315,Bacillus,capparidis,BD-415,rhizosphere,soybean,none_found,0.95,liquid or peat carrier for root application,true,extracted from bacdive dataset dsmz id 133067
+PBM316,Bacillus,wiedmannii,BD-416,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,true,extracted from bacdive dataset dsmz id 133012
+PBM317,Bacillus,mycoides,BD-417,soil,tomato,none_found,0.95,soil drench or in-furrow application,true,extracted from bacdive dataset dsmz id 132716
+PBM318,Bacillus,mycoides,BD-418,soil,tomato,none_found,0.95,soil drench or in-furrow application,true,extracted from bacdive dataset dsmz id 132715
+PBM319,Bacillus,mycoides,BD-419,soil,tomato,none_found,0.95,soil drench or in-furrow application,true,extracted from bacdive dataset dsmz id 132714
+PBM320,Bacillus,mycoides,BD-420,soil,tomato,none_found,0.95,soil drench or in-furrow application,true,extracted from bacdive dataset dsmz id 132713
+PBM321,Bacillus,mycoides,BD-421,soil,tomato,none_found,0.95,soil drench or in-furrow application,true,extracted from bacdive dataset dsmz id 132712
+PBM322,Bacillus,mycoides,BD-422,soil,tomato,none_found,0.95,soil drench or in-furrow application,true,extracted from bacdive dataset dsmz id 132711
+PBM323,Bacillus,mycoides,BD-423,soil,tomato,none_found,0.95,soil drench or in-furrow application,true,extracted from bacdive dataset dsmz id 132710
+PBM324,Bacillus,mycoides,BD-424,soil,tomato,none_found,0.95,soil drench or in-furrow application,true,extracted from bacdive dataset dsmz id 132709
+PBM325,Bacillus,mycoides,BD-425,soil,tomato,none_found,0.95,soil drench or in-furrow application,true,extracted from bacdive dataset dsmz id 132708
+PBM326,Bacillus,mycoides,BD-426,soil,tomato,none_found,0.95,soil drench or in-furrow application,true,extracted from bacdive dataset dsmz id 132707
+PBM327,Bacillus,mycoides,BD-427,soil,tomato,none_found,0.95,soil drench or in-furrow application,true,extracted from bacdive dataset dsmz id 132706
+PBM328,Bacillus,mycoides,BD-428,soil,tomato,none_found,0.95,soil drench or in-furrow application,true,extracted from bacdive dataset dsmz id 132705
+PBM329,Bacillus,mycoides,BD-429,soil,tomato,none_found,0.95,soil drench or in-furrow application,true,extracted from bacdive dataset dsmz id 132704
+PBM330,Bacillus,thuringiensis,BD-430,soil,tomato,none_found,0.95,soil drench or in-furrow application,true,extracted from bacdive dataset dsmz id 132703
+PBM331,Bacillus,thuringiensis,BD-431,soil,tomato,none_found,0.95,soil drench or in-furrow application,true,extracted from bacdive dataset dsmz id 132702
+PBM332,Bacillus,thuringiensis,BD-432,soil,tomato,none_found,0.95,soil drench or in-furrow application,true,extracted from bacdive dataset dsmz id 132701
+PBM333,Bacillus,thuringiensis,BD-433,soil,tomato,none_found,0.95,soil drench or in-furrow application,true,extracted from bacdive dataset dsmz id 132700
+PBM334,Bacillus,thuringiensis,BD-434,soil,tomato,none_found,0.95,soil drench or in-furrow application,true,extracted from bacdive dataset dsmz id 132699
+PBM335,Bacillus,thuringiensis,BD-435,soil,tomato,none_found,0.95,soil drench or in-furrow application,true,extracted from bacdive dataset dsmz id 132698
+PBM336,Bacillus,thuringiensis,BD-436,soil,tomato,none_found,0.95,soil drench or in-furrow application,true,extracted from bacdive dataset dsmz id 132697
+PBM337,Bacillus,oryzisoli,BD-437,rhizosphere,rice,none_found,0.95,liquid or peat carrier for root application,true,extracted from bacdive dataset dsmz id 132616
+PBM338,Bacillus,cereus,BD-438,soil,rice,none_found,0.95,soil drench or in-furrow application,true,extracted from bacdive dataset dsmz id 137410
+PBM339,Bacillus,subtilis,BD-439,plant_associated,soybean,none_found,0.95,universal bioinoculant candidate,true,extracted from bacdive dataset dsmz id 136375
+PBM340,Bacillus,subtilis,BD-440,endosphere,rice,none_found,0.95,seed dressing formulation candidate,true,extracted from bacdive dataset dsmz id 135900
+PBM341,Bacillus,halotolerans,BD-441,endosphere,tomato,none_found,0.95,seed dressing formulation candidate,true,extracted from bacdive dataset dsmz id 135750
+PBM342,Bacillus,sp.,BD-442,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,true,extracted from bacdive dataset dsmz id 139695
+PBM343,Bacillus,thuringiensis,BD-443,plant_associated,rice,none_found,0.95,universal bioinoculant candidate,true,extracted from bacdive dataset dsmz id 139229
+PBM344,Bacillus,endozanthoxylicus,BD-444,endosphere,soybean,none_found,0.95,seed dressing formulation candidate,true,extracted from bacdive dataset dsmz id 141013
+PBM345,Bacillus,paramycoides,BD-445,soil,rice,none_found,0.95,soil drench or in-furrow application,true,extracted from bacdive dataset dsmz id 140968
+PBM346,Bacillus,mobilis,BD-446,rhizosphere,potato,none_found,0.95,liquid or peat carrier for root application,true,extracted from bacdive dataset dsmz id 140964
+PBM347,Bacillus,haynesii,BD-447,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,true,extracted from bacdive dataset dsmz id 140691
+PBM348,Bacillus,nakamurai,BD-448,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,true,extracted from bacdive dataset dsmz id 140523
+PBM349,Bacillus,velezensis,BD-449,rhizosphere,potato,none_found,0.95,liquid or peat carrier for root application,true,extracted from bacdive dataset dsmz id 153720
+PBM350,Bacillus,subtilis,BD-450,plant_associated,potato,none_found,0.95,universal bioinoculant candidate,true,extracted from bacdive dataset dsmz id 157307
+PBM351,Bacillus,subtilis,BD-451,plant_associated,soybean,none_found,0.95,universal bioinoculant candidate,true,extracted from bacdive dataset dsmz id 162729
+PBM352,Bacillus,sp.,BD-452,plant_associated,tobacco,none_found,0.95,universal bioinoculant candidate,true,extracted from bacdive dataset dsmz id 159954
+PBM353,Bacillus,toyonensis,BD-453,rhizosphere,tobacco,none_found,0.95,liquid or peat carrier for root application,true,extracted from bacdive dataset dsmz id 168280
+PBM354,Bacillus,paralicheniformis,BD-454,soil,soybean,none_found,0.95,soil drench or in-furrow application,true,extracted from bacdive dataset dsmz id 168081
+PBM355,Bacillus,glycinifermentans,BD-455,soil,soybean,none_found,0.95,soil drench or in-furrow application,true,extracted from bacdive dataset dsmz id 167765
+PBM356,Bacillus,cabrialesii,BD-456,endosphere,wheat,none_found,0.95,seed dressing formulation candidate,true,extracted from bacdive dataset dsmz id 166294
+PBM357,Bacillus,cereus,BD-457,soil,wheat,none_found,0.95,soil drench or in-furrow application,true,extracted from bacdive dataset dsmz id 171577
+PBM358,Bacillus,cereus,BD-458,soil,potato,none_found,0.95,soil drench or in-furrow application,true,extracted from bacdive dataset dsmz id 171576
+PBM359,Bacillus,cereus,BD-459,phyllosphere,bean,none_found,0.95,foliar spray formulation candidate,true,extracted from bacdive dataset dsmz id 171515
+PBM360,Bacillus,cereus,BD-460,soil,wheat,none_found,0.95,soil drench or in-furrow application,true,extracted from bacdive dataset dsmz id 171509
+PBM361,Bacillus,cereus,BD-461,soil,rice,none_found,0.95,soil drench or in-furrow application,true,extracted from bacdive dataset dsmz id 171860
+PBM362,Bacillus,cereus,BD-462,soil,rice,none_found,0.95,soil drench or in-furrow application,true,extracted from bacdive dataset dsmz id 171859
+PBM363,Bacillus,cereus,BD-463,plant_associated,rice,none_found,0.95,universal bioinoculant candidate,true,extracted from bacdive dataset dsmz id 171857
+PBM364,Bacillus,cereus,BD-464,plant_associated,tomato,none_found,0.95,universal bioinoculant candidate,true,extracted from bacdive dataset dsmz id 171845
+PBM365,Bacillus,cereus,BD-465,soil,wheat,none_found,0.95,soil drench or in-furrow application,true,extracted from bacdive dataset dsmz id 172006
+PBM366,Bacillus,cereus,BD-466,soil,cotton,none_found,0.95,soil drench or in-furrow application,true,extracted from bacdive dataset dsmz id 172151
+PBM367,Bacillus,cereus,BD-467,plant_associated,wheat,none_found,0.95,universal bioinoculant candidate,true,extracted from bacdive dataset dsmz id 172116
+PBM368,Bacillus,cereus,BD-468,plant_associated,wheat,none_found,0.95,universal bioinoculant candidate,true,extracted from bacdive dataset dsmz id 172115
+PBM369,Bacillus,cereus,BD-469,endosphere,barley,none_found,0.95,seed dressing formulation candidate,true,extracted from bacdive dataset dsmz id 172105
+PBM370,Bacillus,cereus,BD-470,endosphere,soybean,none_found,0.95,seed dressing formulation candidate,true,extracted from bacdive dataset dsmz id 172104
+PBM371,Bacillus,cereus,BD-471,endosphere,rice,none_found,0.95,seed dressing formulation candidate,true,extracted from bacdive dataset dsmz id 172100
+PBM372,Bacillus,cereus,BD-472,endosphere,rice,none_found,0.95,seed dressing formulation candidate,true,extracted from bacdive dataset dsmz id 172096
+PBM373,Bacillus,cereus,BD-473,rhizosphere,wheat,none_found,0.95,liquid or peat carrier for root application,true,extracted from bacdive dataset dsmz id 172095
+PBM374,Bacillus,cereus,BD-474,plant_associated,rice,none_found,0.95,universal bioinoculant candidate,true,extracted from bacdive dataset dsmz id 172217
+PBM375,Bacillus,mexicanus,BD-475,plant_associated,bean,none_found,0.95,universal bioinoculant candidate,true,extracted from bacdive dataset dsmz id 175740
