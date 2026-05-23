@@ -2,6 +2,10 @@
 
 Snakemake-based MVP pipeline for bacterial genome analysis in a plant growth-promoting bacteria candidate selection workflow.
 
+Current MVP uses plant profiles, BacDive-derived plant-associated bacterial strain candidates, local genome availability, Prodigal protein prediction status, and rule-based genus-level PGPR priors.
+
+Functional annotation with Bakta/eggNOG, secondary metabolite mining with antiSMASH, and AMR screening are planned next layers.
+
 The pipeline starts from bacterial genome FASTA files and produces QC, taxonomy, annotation, functional, PGP/PGPR trait, secondary metabolite, CAZyme, AMR/virulence, plasmid/mobile element, CRISPR/phage summaries, and a final ranking table.
 
 This is a prototype. It does **not** make final biological or agronomic recommendations. Candidate strains require biosafety review plus laboratory, greenhouse, and field validation.

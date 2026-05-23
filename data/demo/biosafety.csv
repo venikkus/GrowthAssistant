@@ -1,16 +1,376 @@
-strain_id,amr_gene_count,virulence_gene_count,pathogen_flag,risky_genus_flag,plasmid_amr_flag,biosafety_notes,biosafety_penalty
-PBM001,0,0,false,false,false,Low-risk demo profile,0
-PBM002,0,0,false,false,false,Low-risk demo profile,0
-PBM003,1,0,false,false,false,One intrinsic-like resistance marker in demo data,0
-PBM004,0,0,false,false,false,Low-risk demo profile,0
-PBM005,0,0,false,false,false,Low-risk demo profile,0
-PBM006,1,0,false,false,false,One resistance marker; verify before trials,0
-PBM007,0,0,false,false,false,Low-risk demo profile,0
-PBM008,0,0,false,false,false,Low-risk demo profile,0
-PBM009,1,1,false,false,false,Paraburkholderia taxonomy requires careful review,0
-PBM010,3,2,false,true,true,Enterobacter cloacae complex requires strict biosafety review,0
-PBM011,2,4,true,true,true,Serratia marcescens pathogen flag in demo profile,0
-PBM012,4,3,false,true,true,Klebsiella variicola requires strict biosafety review,0
-PBM013,0,0,false,false,false,Biosafety screen incomplete due to missing genome,0
-PBM014,0,0,false,false,false,Low-risk demo profile,0
-
+pathogen_flag,risky_genus_flag,plasmid_amr_flag,amr_gene_count,virulence_gene_count,biosafety_penalty,biosafety_notes,strain_id
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM001
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM002
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM003
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM004
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM005
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM006
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM007
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM008
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM009
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM010
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM011
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM012
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM013
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM014
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM015
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM016
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM017
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM018
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM019
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM020
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM021
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM022
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM023
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM024
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM025
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM026
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM027
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM028
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM029
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM030
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM031
+True,False,False,0,0,14.0,species-level warning; not recommended without strict biosafety validation; plant/human pathogenic Pseudomonas group warning,PBM032
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM033
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM034
+True,False,False,0,0,14.0,species-level warning; not recommended without strict biosafety validation; plant/human pathogenic Pseudomonas group warning,PBM035
+True,False,False,0,0,14.0,species-level warning; not recommended without strict biosafety validation; plant/human pathogenic Pseudomonas group warning,PBM036
+True,False,False,0,0,14.0,species-level warning; not recommended without strict biosafety validation; plant/human pathogenic Pseudomonas group warning,PBM037
+True,False,False,0,0,14.0,species-level warning; not recommended without strict biosafety validation; plant/human pathogenic Pseudomonas group warning,PBM038
+True,False,False,0,0,14.0,species-level warning; not recommended without strict biosafety validation; plant/human pathogenic Pseudomonas group warning,PBM039
+True,False,False,0,0,14.0,species-level warning; not recommended without strict biosafety validation; plant/human pathogenic Pseudomonas group warning,PBM040
+True,False,False,0,0,14.0,species-level warning; not recommended without strict biosafety validation; plant/human pathogenic Pseudomonas group warning,PBM041
+True,False,False,0,0,14.0,species-level warning; not recommended without strict biosafety validation; plant/human pathogenic Pseudomonas group warning,PBM042
+True,False,False,0,0,14.0,species-level warning; not recommended without strict biosafety validation; plant/human pathogenic Pseudomonas group warning,PBM043
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM044
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM045
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM046
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM047
+True,False,False,0,0,14.0,species-level warning; not recommended without strict biosafety validation; plant/human pathogenic Pseudomonas group warning,PBM048
+True,False,False,0,0,14.0,species-level warning; not recommended without strict biosafety validation; plant/human pathogenic Pseudomonas group warning,PBM049
+True,False,False,0,0,14.0,species-level warning; not recommended without strict biosafety validation; plant/human pathogenic Pseudomonas group warning,PBM050
+True,False,False,0,0,14.0,species-level warning; not recommended without strict biosafety validation; plant/human pathogenic Pseudomonas group warning,PBM051
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM052
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM053
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM054
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM055
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM056
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM057
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM058
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM059
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM060
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM061
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM062
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM063
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM064
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM065
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM066
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM067
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM068
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM069
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM070
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM071
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM072
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM073
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM074
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM075
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM076
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM077
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM078
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM079
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM080
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM081
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM082
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM083
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM084
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM085
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM086
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM087
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM088
+True,False,False,0,0,14.0,species-level warning; not recommended without strict biosafety validation; plant/human pathogenic Pseudomonas group warning,PBM089
+True,False,False,0,0,14.0,species-level warning; not recommended without strict biosafety validation; plant/human pathogenic Pseudomonas group warning,PBM090
+True,False,False,0,0,14.0,species-level warning; not recommended without strict biosafety validation; plant/human pathogenic Pseudomonas group warning,PBM091
+True,False,False,0,0,14.0,species-level warning; not recommended without strict biosafety validation; plant/human pathogenic Pseudomonas group warning,PBM092
+True,False,False,0,0,14.0,species-level warning; not recommended without strict biosafety validation; plant/human pathogenic Pseudomonas group warning,PBM093
+True,False,False,0,0,14.0,species-level warning; not recommended without strict biosafety validation; plant/human pathogenic Pseudomonas group warning,PBM094
+True,False,False,0,0,14.0,species-level warning; not recommended without strict biosafety validation; plant/human pathogenic Pseudomonas group warning,PBM095
+True,False,False,0,0,14.0,species-level warning; not recommended without strict biosafety validation; plant/human pathogenic Pseudomonas group warning,PBM096
+True,False,False,0,0,14.0,species-level warning; not recommended without strict biosafety validation; plant/human pathogenic Pseudomonas group warning,PBM097
+True,False,False,0,0,14.0,species-level warning; not recommended without strict biosafety validation; plant/human pathogenic Pseudomonas group warning,PBM098
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM099
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM100
+True,False,False,0,0,14.0,species-level warning; not recommended without strict biosafety validation; plant/human pathogenic Pseudomonas group warning,PBM101
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM102
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM103
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM104
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM105
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM106
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM107
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM108
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM109
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM110
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM111
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM112
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM113
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM114
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM115
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM116
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM117
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM118
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM119
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM120
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM121
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM122
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM123
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM124
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM125
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM126
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM127
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM128
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM129
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM130
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM131
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM132
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM133
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM134
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM135
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM136
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM137
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM138
+True,False,False,0,0,14.0,species-level warning; not recommended without strict biosafety validation; plant/human pathogenic Pseudomonas group warning,PBM139
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM140
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM141
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM142
+True,False,False,0,0,14.0,species-level warning; not recommended without strict biosafety validation; plant/human pathogenic Pseudomonas group warning,PBM143
+True,False,False,0,0,14.0,species-level warning; not recommended without strict biosafety validation; plant/human pathogenic Pseudomonas group warning,PBM144
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM145
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM146
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM147
+True,False,False,0,0,14.0,species-level warning; not recommended without strict biosafety validation; plant/human pathogenic Pseudomonas group warning,PBM148
+True,False,False,0,0,14.0,species-level warning; not recommended without strict biosafety validation; plant/human pathogenic Pseudomonas group warning,PBM149
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM150
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM151
+True,False,False,0,0,14.0,species-level warning; not recommended without strict biosafety validation; plant/human pathogenic Pseudomonas group warning,PBM152
+True,False,False,0,0,14.0,species-level warning; not recommended without strict biosafety validation; plant/human pathogenic Pseudomonas group warning,PBM153
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM154
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM155
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM156
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM157
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM158
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM159
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM160
+True,False,False,0,0,14.0,species-level warning; not recommended without strict biosafety validation; plant/human pathogenic Pseudomonas group warning,PBM161
+True,False,False,0,0,14.0,species-level warning; not recommended without strict biosafety validation; plant/human pathogenic Pseudomonas group warning,PBM162
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM163
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM164
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM165
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM166
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM167
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM168
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM169
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM170
+True,False,False,0,0,14.0,species-level warning; not recommended without strict biosafety validation; plant/human pathogenic Pseudomonas group warning,PBM171
+True,False,False,0,0,14.0,species-level warning; not recommended without strict biosafety validation; plant/human pathogenic Pseudomonas group warning,PBM172
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM173
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM174
+True,False,False,0,0,14.0,species-level warning; not recommended without strict biosafety validation; plant/human pathogenic Pseudomonas group warning,PBM175
+True,False,False,0,0,14.0,species-level warning; not recommended without strict biosafety validation; plant/human pathogenic Pseudomonas group warning,PBM176
+True,False,False,0,0,14.0,species-level warning; not recommended without strict biosafety validation; plant/human pathogenic Pseudomonas group warning,PBM177
+True,False,False,0,0,14.0,species-level warning; not recommended without strict biosafety validation; plant/human pathogenic Pseudomonas group warning,PBM178
+True,False,False,0,0,14.0,species-level warning; not recommended without strict biosafety validation; plant/human pathogenic Pseudomonas group warning,PBM179
+True,False,False,0,0,14.0,species-level warning; not recommended without strict biosafety validation; plant/human pathogenic Pseudomonas group warning,PBM180
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM181
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM182
+True,False,False,0,0,14.0,species-level warning; not recommended without strict biosafety validation; plant/human pathogenic Pseudomonas group warning,PBM183
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM184
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM185
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM186
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM187
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM188
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM189
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM190
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM191
+True,False,False,0,0,14.0,species-level warning; not recommended without strict biosafety validation; plant/human pathogenic Pseudomonas group warning,PBM192
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM193
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM194
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM195
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM196
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM197
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM198
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM199
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM200
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM201
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM202
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM203
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM204
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM205
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM206
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM207
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM208
+True,False,False,0,0,14.0,species-level warning; not recommended without strict biosafety validation; plant/human pathogenic Pseudomonas group warning,PBM209
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM210
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM211
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM212
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM213
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM214
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM215
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM216
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM217
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM218
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM219
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM220
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM221
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM222
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM223
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM224
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM225
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM226
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM227
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM228
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM229
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM230
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM231
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM232
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM233
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM234
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM235
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM236
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM237
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM238
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM239
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM240
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM241
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM242
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM243
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM244
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM245
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM246
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM247
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM248
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM249
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM250
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM251
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM252
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM253
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM254
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM255
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM256
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM257
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM258
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM259
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM260
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM261
+True,False,False,0,0,16.0,species-level warning; not recommended without strict biosafety validation; Bacillus cereus/anthracis group warning,PBM262
+True,False,False,0,0,16.0,species-level warning; not recommended without strict biosafety validation; Bacillus cereus/anthracis group warning,PBM263
+True,False,False,0,0,16.0,species-level warning; not recommended without strict biosafety validation; Bacillus cereus/anthracis group warning,PBM264
+True,False,False,0,0,16.0,species-level warning; not recommended without strict biosafety validation; Bacillus cereus/anthracis group warning,PBM265
+True,False,False,0,0,16.0,species-level warning; not recommended without strict biosafety validation; Bacillus cereus/anthracis group warning,PBM266
+True,False,False,0,0,16.0,species-level warning; not recommended without strict biosafety validation; Bacillus cereus/anthracis group warning,PBM267
+True,False,False,0,0,16.0,species-level warning; not recommended without strict biosafety validation; Bacillus cereus/anthracis group warning,PBM268
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM269
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM270
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM271
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM272
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM273
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM274
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM275
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM276
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM277
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM278
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM279
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM280
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM281
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM282
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM283
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM284
+True,False,False,0,0,8.0,species-level warning; not recommended without strict biosafety validation,PBM285
+True,False,False,0,0,8.0,species-level warning; not recommended without strict biosafety validation,PBM286
+True,False,False,0,0,8.0,species-level warning; not recommended without strict biosafety validation,PBM287
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM288
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM289
+True,False,False,0,0,16.0,species-level warning; not recommended without strict biosafety validation; Bacillus cereus/anthracis group warning,PBM290
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM291
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM292
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM293
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM294
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM295
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM296
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM297
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM298
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM299
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM300
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM301
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM302
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM303
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM304
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM305
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM306
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM307
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM308
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM309
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM310
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM311
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM312
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM313
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM314
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM315
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM316
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM317
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM318
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM319
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM320
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM321
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM322
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM323
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM324
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM325
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM326
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM327
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM328
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM329
+True,False,False,0,0,8.0,species-level warning; not recommended without strict biosafety validation,PBM330
+True,False,False,0,0,8.0,species-level warning; not recommended without strict biosafety validation,PBM331
+True,False,False,0,0,8.0,species-level warning; not recommended without strict biosafety validation,PBM332
+True,False,False,0,0,8.0,species-level warning; not recommended without strict biosafety validation,PBM333
+True,False,False,0,0,8.0,species-level warning; not recommended without strict biosafety validation,PBM334
+True,False,False,0,0,8.0,species-level warning; not recommended without strict biosafety validation,PBM335
+True,False,False,0,0,8.0,species-level warning; not recommended without strict biosafety validation,PBM336
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM337
+True,False,False,0,0,16.0,species-level warning; not recommended without strict biosafety validation; Bacillus cereus/anthracis group warning,PBM338
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM339
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM340
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM341
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM342
+True,False,False,0,0,8.0,species-level warning; not recommended without strict biosafety validation,PBM343
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM344
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM345
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM346
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM347
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM348
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM349
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM350
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM351
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM352
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM353
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM354
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM355
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM356
+True,False,False,0,0,16.0,species-level warning; not recommended without strict biosafety validation; Bacillus cereus/anthracis group warning,PBM357
+True,False,False,0,0,16.0,species-level warning; not recommended without strict biosafety validation; Bacillus cereus/anthracis group warning,PBM358
+True,False,False,0,0,16.0,species-level warning; not recommended without strict biosafety validation; Bacillus cereus/anthracis group warning,PBM359
+True,False,False,0,0,16.0,species-level warning; not recommended without strict biosafety validation; Bacillus cereus/anthracis group warning,PBM360
+True,False,False,0,0,16.0,species-level warning; not recommended without strict biosafety validation; Bacillus cereus/anthracis group warning,PBM361
+True,False,False,0,0,16.0,species-level warning; not recommended without strict biosafety validation; Bacillus cereus/anthracis group warning,PBM362
+True,False,False,0,0,16.0,species-level warning; not recommended without strict biosafety validation; Bacillus cereus/anthracis group warning,PBM363
+True,False,False,0,0,16.0,species-level warning; not recommended without strict biosafety validation; Bacillus cereus/anthracis group warning,PBM364
+True,False,False,0,0,16.0,species-level warning; not recommended without strict biosafety validation; Bacillus cereus/anthracis group warning,PBM365
+True,False,False,0,0,16.0,species-level warning; not recommended without strict biosafety validation; Bacillus cereus/anthracis group warning,PBM366
+True,False,False,0,0,16.0,species-level warning; not recommended without strict biosafety validation; Bacillus cereus/anthracis group warning,PBM367
+True,False,False,0,0,16.0,species-level warning; not recommended without strict biosafety validation; Bacillus cereus/anthracis group warning,PBM368
+True,False,False,0,0,16.0,species-level warning; not recommended without strict biosafety validation; Bacillus cereus/anthracis group warning,PBM369
+True,False,False,0,0,16.0,species-level warning; not recommended without strict biosafety validation; Bacillus cereus/anthracis group warning,PBM370
+True,False,False,0,0,16.0,species-level warning; not recommended without strict biosafety validation; Bacillus cereus/anthracis group warning,PBM371
+True,False,False,0,0,16.0,species-level warning; not recommended without strict biosafety validation; Bacillus cereus/anthracis group warning,PBM372
+True,False,False,0,0,16.0,species-level warning; not recommended without strict biosafety validation; Bacillus cereus/anthracis group warning,PBM373
+True,False,False,0,0,16.0,species-level warning; not recommended without strict biosafety validation; Bacillus cereus/anthracis group warning,PBM374
+False,False,False,0,0,0.0,low-risk rule-based profile; AMRFinder/virulence screening still required,PBM375
