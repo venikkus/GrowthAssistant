@@ -304,7 +304,12 @@ for _, row in raw.iterrows():
     if source_accession and source_accession != "none_found":
         genome_accession = source_accession
 
-    strain_name = f"{genus} {species} {strain_code}".strip()
+    # Prefer real genome/protein filename as display name when available.
+    # This makes the UI show e.g. "bacillus_velezensis__GCF_..." instead of "PBM292".
+    if matched_genome_sample:
+        strain_name = matched_genome_sample
+    else:
+        strain_name = f"{genus} {species} {strain_code}".strip()
 
     taxonomy_conf = clean_text(row.get("taxonomy_confidence", "0.8"))
     try:
