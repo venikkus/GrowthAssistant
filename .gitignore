@@ -23,3 +23,25 @@ env/
 
 # Logs
 *.log
+
+# Local genome data
+data/genomes/
+data/genomes_ncbi/
+
+# Pipeline outputs
+results/
+logs/
+*.log
+*.run.log
+
+# Genome/protein files
+*.fna
+*.faa
+*.ffn
+*.gff
+*.gff3
+*.gbff
+*.zip
+
+# Local backups
+data/demo_backup/
