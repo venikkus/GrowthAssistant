@@ -20,11 +20,54 @@ from plant_bacteria_match.scoring import score_strain
 def _clean_optional(value: Any) -> Any:
     if pd.isna(value):
         return None
+    if isinstance(value, str) and value.strip() == "":
+        return None
     return value
+
+
+def _clean_bool(value: Any, default: bool = False) -> bool:
+    if value is None or pd.isna(value):
+        return default
+    if isinstance(value, bool):
+        return value
+    if isinstance(value, (int, float)):
+        return bool(value)
+    value_str = str(value).strip().lower()
+    if value_str in {"true", "t", "yes", "y", "1"}:
+        return True
+    if value_str in {"false", "f", "no", "n", "0"}:
+        return False
+    return default
+
+
+def _clean_float(value: Any, default: float = 0.0) -> float:
+    if value is None or pd.isna(value):
+        return default
+    if isinstance(value, str) and value.strip() == "":
+        return default
+    try:
+        return float(value)
+    except (TypeError, ValueError):
+        return default
+
+
+def _clean_int(value: Any, default: int = 0) -> int:
+    if value is None or pd.isna(value):
+        return default
+    if isinstance(value, str) and value.strip() == "":
+        return default
+    try:
+        return int(float(value))
+    except (TypeError, ValueError):
+        return default
 
 
 def _row_to_strain(row: pd.Series) -> BacterialStrain:
     data = {key: _clean_optional(value) for key, value in row.to_dict().items()}
+
+    data["taxonomy_confidence"] = _clean_float(data.get("taxonomy_confidence"), 0.0)
+    data["is_spore_former"] = _clean_bool(data.get("is_spore_former"), False)
+
     return BacterialStrain(**data)
 
 
