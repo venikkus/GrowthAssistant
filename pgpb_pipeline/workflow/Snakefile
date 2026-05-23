@@ -1,0 +1,32 @@
+configfile: "config/config.yaml"
+
+import pandas as pd
+
+SAMPLES = pd.read_csv("config/samples.tsv", sep="\t")["sample_id"].tolist()
+MODE = config.get("mode", "mock")
+REAL_TOOL_OUTPUTS = sum([
+    expand("results/qc/{sample}/quast", sample=SAMPLES),
+    expand("results/qc/{sample}/busco", sample=SAMPLES),
+    expand("results/annotation/{sample}/bakta", sample=SAMPLES),
+    expand("results/functional/{sample}/eggnog", sample=SAMPLES),
+    expand("results/secondary_metabolites/{sample}/antismash", sample=SAMPLES),
+    expand("results/biosafety/{sample}/amrfinder", sample=SAMPLES),
+    expand("results/pgp_traits/{sample}/pgpt_pred_import.done", sample=SAMPLES),
+], [])
+TOOL_OUTPUTS = [] if MODE == "mock" else REAL_TOOL_OUTPUTS
+
+include: "rules/qc.smk"
+include: "rules/taxonomy.smk"
+include: "rules/annotation.smk"
+include: "rules/functional.smk"
+include: "rules/pgp_traits.smk"
+include: "rules/secondary_metabolites.smk"
+include: "rules/biosafety.smk"
+include: "rules/mobile_elements.smk"
+include: "rules/crispr_phage.smk"
+include: "rules/ranking.smk"
+
+rule all:
+    input:
+        "results/tables/final_ranking.tsv",
+        "results/reports/final_report.html"

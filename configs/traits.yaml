@@ -1,0 +1,11 @@
+traits:
+  nitrogen_fixation_score: [nifH, nifD, nifK]
+  phosphate_solubilization_score: [gcd, pqq, organic_acid_metabolism]
+  siderophore_score: [siderophore_biosynthesis, nrps]
+  iaa_score: [tryptophan_metabolism, indole_3_acetic_acid]
+  acc_deaminase_score: [acdS]
+  biocontrol_score: [chitinase, glucanase, protease, antimicrobial_clusters]
+  stress_tolerance_score: [eps, osmoprotectants, salt_tolerance, drought_tolerance]
+  colonization_score: [chemotaxis, motility, pili, flagella, biofilm, eps]
+  secondary_metabolite_score: [antismash_bgc_count, nrps, pks, bacteriocins]
+

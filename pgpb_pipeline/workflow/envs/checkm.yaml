@@ -1,0 +1,6 @@
+name: pgpb-checkm
+channels: [conda-forge, bioconda]
+dependencies:
+  - checkm-genome
+  - python>=3.10
+

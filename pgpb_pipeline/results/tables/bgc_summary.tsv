@@ -1,0 +1,5 @@
+sample_id	region	bgc_type	product	similarity	coordinates	potential_role
+strain_001	region_1	NRPS	siderophore-like	0.62	1000-55000	siderophore
+strain_001	region_2	lanthipeptide	antimicrobial peptide	0.41	90000-120000	antimicrobial
+strain_002	region_1	NRPS	siderophore	0.55	5000-61000	siderophore
+strain_002	region_2	bacteriocin	bacteriocin-like	0.37	100000-130000	antimicrobial

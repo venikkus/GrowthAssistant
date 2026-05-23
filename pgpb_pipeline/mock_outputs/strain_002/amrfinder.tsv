@@ -1,0 +1,4 @@
+sample_id	gene	drug_class	identity	coverage
+strain_002	blaACT	beta-lactam	98.2	99.1
+strain_002	qnrB	quinolone	91.0	88.0
+

@@ -1,0 +1,9 @@
+name: pgpb-taxonomy
+channels: [conda-forge, bioconda]
+dependencies:
+  - gtdbtk
+  - kraken2
+  - mash
+  - fastani
+  - python>=3.10
+

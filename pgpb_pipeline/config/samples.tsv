@@ -1,0 +1,4 @@
+sample_id	fasta	plant	target_trait	condition
+strain_001	data/genomes/strain_001.fna	wheat	drought,phosphate_solubilization	dry_soil
+strain_002	data/genomes/strain_002.fna	tomato	biocontrol	Fusarium
+

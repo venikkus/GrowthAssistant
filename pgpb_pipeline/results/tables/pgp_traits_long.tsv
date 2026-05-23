@@ -1,0 +1,18 @@
+sample_id	trait_category	trait_name	gene_or_marker	locus_tag	evidence_type	source_tool	confidence	description
+strain_001	ACC_deaminase	ACC deaminase	acdS	gene_001	annotation_keyword	annotation	high	gene_001: ACC deaminase acdS
+strain_001	ACC_deaminase	ACC deaminase	acdS	PGPT_001	pgpt_pred_import	PGPT-Pred/PLaBAse	high	PGPT-Pred demo hit for ACC deaminase
+strain_001	biocontrol	biocontrol	lanthipeptide		antismash_cluster	antismash	medium	lanthipeptide antimicrobial peptide antimicrobial region_2 90000-120000
+strain_001	biocontrol	biocontrol	nrps		antismash_cluster	antismash	medium	NRPS siderophore-like siderophore region_1 1000-55000
+strain_001	phosphate_solubilization	phosphate solubilization	gcd	gene_003	annotation_keyword	annotation	high	gene_003: gcd glucose dehydrogenase | gcd+pqq combination detected
+strain_001	phosphate_solubilization	phosphate solubilization	pqq	gene_002	annotation_keyword	annotation	high	gene_002: pqqC pyrroloquinoline quinone biosynthesis | gcd+pqq combination detected
+strain_001	phosphate_solubilization	phosphate solubilization	pqqC	PGPT_002	pgpt_pred_import	PGPT-Pred/PLaBAse	high	PGPT-Pred demo hit for PQQ pathway
+strain_001	root_colonization	root colonization	motility/chemotaxis/pili	gene_005	annotation_keyword	annotation	medium	gene_005: flagellar biosynthesis protein
+strain_001	siderophore	siderophore production	siderophore		antismash_cluster	antismash	high	NRPS siderophore-like siderophore region_1 1000-55000
+strain_001	stress_tolerance	stress tolerance	osmoprotection/cold stress	gene_004	annotation_keyword	annotation	medium	gene_004: trehalose biosynthesis protein
+strain_002	biocontrol	biocontrol	bacteriocin		antismash_cluster	antismash	medium	bacteriocin bacteriocin-like antimicrobial region_2 100000-130000
+strain_002	biocontrol	biocontrol	lytic enzyme/protease	gene_010	annotation_keyword	annotation	medium	gene_010: chitinase family protein
+strain_002	biocontrol	biocontrol	lytic enzyme/protease	gene_011	annotation_keyword	annotation	medium	gene_011: beta-1,3-glucanase
+strain_002	biocontrol	biocontrol	lytic enzyme/protease	gene_014	annotation_keyword	annotation	medium	gene_014: protease
+strain_002	biocontrol	biocontrol	nrps		antismash_cluster	antismash	medium	NRPS siderophore siderophore region_1 5000-61000
+strain_002	siderophore	siderophore production	siderophore		antismash_cluster	antismash	high	NRPS siderophore siderophore region_1 5000-61000
+strain_002	siderophore	siderophore production	siderophore	gene_012	annotation_keyword	annotation	medium	gene_012: siderophore biosynthesis protein

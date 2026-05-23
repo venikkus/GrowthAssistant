@@ -1,0 +1,3 @@
+sample_id	gtdb_classification	genus	species	closest_reference	ani	mash_distance	kraken_top_hit
+strain_001	d__Bacteria;p__Bacillota;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Bacillus;s__Bacillus velezensis	Bacillus	velezensis	GCF_demo_B_velezensis	98.8	0.018	Bacillus velezensis
+

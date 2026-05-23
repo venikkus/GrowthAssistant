@@ -1,0 +1,4 @@
+sample_id	plant	target_trait	taxonomy	qc_score	pgp_trait_score	plant_trait_match_score	secondary_metabolite_score	biosafety_penalty	uncertainty_penalty	final_score	confidence_level	recommended_status	top_positive_evidence	top_risk_evidence	recommended_validation_tests
+strain_001	wheat	drought,phosphate_solubilization	Bacillus velezensis	9.0	10.0	7.0	2.2	0.0	0.0	30.2	A	strong_candidate	acdS;pqqC;gcd;trehalose;siderophore-like	No major mock biosafety risks	ACC deaminase assay; phosphate solubilization assay; CAS siderophore assay; drought/salinity pot experiment; lab/greenhouse validation before field use
+strain_002	tomato	biocontrol	Enterobacter cloacae	2.0	7.0	5.0	2.2	18.0	3.0	-4.8	E	reject_or_manual_review	chitinase;glucanase;siderophore;bacteriocin-like	AMR genes; virulence factors; risky taxonomy; mobile AMR	dual culture assay against target pathogen; CAS siderophore assay; mandatory biosafety review before any plant assay
+

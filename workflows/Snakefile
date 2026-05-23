@@ -1,0 +1,46 @@
+configfile: "workflows/config.yaml"
+
+rule all:
+    input:
+        "results/merged_features.tsv"
+
+rule annotate_genome_bakta:
+    input:
+        "data/genomes/{strain}.fna"
+    output:
+        "results/bakta/{strain}/annotation.gff3"
+    shell:
+        "echo 'placeholder: bakta {input} --output results/bakta/{wildcards.strain}' > {output}"
+
+rule run_pgpt_pred:
+    input:
+        "results/bakta/{strain}/annotation.gff3"
+    output:
+        "results/pgpt_pred/{strain}.tsv"
+    shell:
+        "echo 'placeholder: PGPT-Pred/PLaBAse on {input}' > {output}"
+
+rule run_antismash:
+    input:
+        "data/genomes/{strain}.fna"
+    output:
+        "results/antismash/{strain}/summary.tsv"
+    shell:
+        "mkdir -p results/antismash/{wildcards.strain} && echo 'placeholder: antismash {input}' > {output}"
+
+rule run_amrfinder:
+    input:
+        "data/genomes/{strain}.fna"
+    output:
+        "results/amrfinder/{strain}.tsv"
+    shell:
+        "echo 'placeholder: amrfinder -n {input}' > {output}"
+
+rule collect_features:
+    input:
+        expand("results/pgpt_pred/{strain}.tsv", strain=[]),
+    output:
+        "results/merged_features.tsv"
+    shell:
+        "echo 'strain_id\tfeature_source\tvalue' > {output}"
+

@@ -1,0 +1,6 @@
+name: pgpb-quast
+channels: [conda-forge, bioconda]
+dependencies:
+  - quast
+  - python>=3.10
+

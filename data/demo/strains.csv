@@ -1,0 +1,16 @@
+strain_id,genus,species,strain_name,isolation_source,host_plant,genome_accession,taxonomy_confidence,formulation_notes,is_spore_former,notes
+PBM001,Bacillus,velezensis,BV-101,rhizosphere,wheat,GCF_DEMO_000001,0.98,stable dry powder candidate,true,synthetic demo strain
+PBM002,Bacillus,subtilis,BS-22,compost,wheat,GCF_DEMO_000002,0.97,stable spores in carrier,true,synthetic demo strain
+PBM003,Pseudomonas,fluorescens,PF-8,rhizosphere,potato,GCF_DEMO_000003,0.94,liquid formulation candidate,false,synthetic demo strain
+PBM004,Azospirillum,brasilense,AB-15,root endosphere,wheat,GCF_DEMO_000004,0.93,peat inoculant candidate,false,synthetic demo strain
+PBM005,Paenibacillus,polymyxa,PP-4,rhizosphere,sunflower,GCF_DEMO_000005,0.95,stable spore-forming candidate,true,synthetic demo strain
+PBM006,Streptomyces,griseus,SG-3,soil,potato,GCF_DEMO_000006,0.92,granular formulation candidate,false,synthetic demo strain
+PBM007,Bradyrhizobium,japonicum,BJ-11,nodule,soybean,GCF_DEMO_000007,0.99,peat inoculant standard,false,synthetic demo strain
+PBM008,Rhizobium,leguminosarum,RL-2,nodule,soybean,GCF_DEMO_000008,0.96,peat inoculant candidate,false,synthetic demo strain
+PBM009,Paraburkholderia,phytofirmans,PPhy-9,endosphere,sunflower,GCF_DEMO_000009,0.91,requires careful taxonomy review,false,synthetic demo strain
+PBM010,Enterobacter,cloacae,EC-6,rhizosphere,wheat,GCF_DEMO_000010,0.9,not prioritized for formulation,false,risky genus synthetic demo
+PBM011,Serratia,marcescens,SM-1,rhizosphere,potato,GCF_DEMO_000011,0.93,not prioritized for formulation,false,risky genus synthetic demo
+PBM012,Klebsiella,variicola,KV-5,rhizosphere,maize,GCF_DEMO_000012,0.92,not prioritized for formulation,false,risky genus synthetic demo
+PBM013,Arthrobacter,sp.,A-7,bulk soil,sunflower,,0.82,desiccation tolerant candidate,false,missing genome demo
+PBM014,Pseudarthrobacter,sp.,PA-2,rhizosphere,wheat,GCF_DEMO_000014,0.86,dry carrier candidate,false,synthetic demo strain
+

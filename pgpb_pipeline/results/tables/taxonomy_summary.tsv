@@ -1,0 +1,3 @@
+sample_id	gtdb_classification	genus	species	closest_reference	ani	mash_distance	kraken_top_hit
+strain_001	d__Bacteria;p__Bacillota;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Bacillus;s__Bacillus velezensis	Bacillus	velezensis	GCF_demo_B_velezensis	98.8	0.018	Bacillus velezensis
+strain_002	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Enterobacter;s__Enterobacter cloacae	Enterobacter	cloacae	GCF_demo_E_cloacae	96.1	0.042	Enterobacter cloacae complex

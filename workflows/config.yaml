@@ -1,0 +1,4 @@
+genomes_dir: data/genomes
+results_dir: results
+threads: 4
+

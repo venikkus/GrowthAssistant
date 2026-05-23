@@ -1,0 +1,5 @@
+sample_id	family	substrate_hint
+strain_001	GH13	starch/glycogen
+strain_001	CBM50	chitin-binding caution
+strain_002	GH18	chitinase caution
+strain_002	PL1	pectate lyase caution

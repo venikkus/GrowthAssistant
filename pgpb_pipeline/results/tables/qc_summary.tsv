@@ -1,0 +1,3 @@
+sample_id	total_length	num_contigs	n50	gc	completeness	contamination	busco_complete	busco_single	busco_duplicated	busco_fragmented	busco_missing
+strain_001	5200000	42	210000	58.4	98.7	0.8	98.1	97.4	0.7	0.8	1.1
+strain_002	4900000	310	24000	55.1	89.2	6.4	88.0	86.0	2.0	5.0	7.0

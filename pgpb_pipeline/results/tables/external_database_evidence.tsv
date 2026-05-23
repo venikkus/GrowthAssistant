@@ -1,0 +1,899 @@
+source	plant	plant_latin	bacterium	genus	evidence_type	evidence_score	condition	mechanism	reference	description
+BacDive	pea		Azospirillum agricola	Azospirillum	database	1.0			140877	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Azospirillum doebereinerae	Azospirillum	database	1.0			13996	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Azospirillum palustre	Azospirillum	database	1.0			166212	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Azospirillum ramasamyi	Azospirillum	database	1.0			166472	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Azospirillum thermophilum	Azospirillum	database	1.0			167820	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus albus	Bacillus	database	1.0			140963	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus anthracis	Bacillus	database	1.0			168990	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus arachidis	Bacillus	database	1.0			170449	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus atrophaeus	Bacillus	database	1.0			1079	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus atrophaeus	Bacillus	database	1.0			1078	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus atrophaeus	Bacillus	database	1.0			1074	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus atrophaeus	Bacillus	database	1.0			22920	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus capparidis	Bacillus	database	1.0			133067	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus cereus	Bacillus	database	1.0			639	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus cereus	Bacillus	database	1.0			638	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus cereus	Bacillus	database	1.0			637	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus cereus	Bacillus	database	1.0			636	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus cereus	Bacillus	database	1.0			626	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus cereus	Bacillus	database	1.0			608	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus cereus	Bacillus	database	1.0			22911	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus cereus	Bacillus	database	1.0			130857	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus cereus	Bacillus	database	1.0			130856	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus cereus	Bacillus	database	1.0			131624	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus cereus	Bacillus	database	1.0			131623	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus cereus	Bacillus	database	1.0			131622	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus cereus	Bacillus	database	1.0			131621	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus cereus	Bacillus	database	1.0			157589	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus cereus	Bacillus	database	1.0			157588	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus cereus	Bacillus	database	1.0			171510	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus cereus	Bacillus	database	1.0			171847	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus cereus	Bacillus	database	1.0			172034	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus cereus	Bacillus	database	1.0			172171	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus cereus	Bacillus	database	1.0			172162	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus cereus	Bacillus	database	1.0			172097	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus chungangensis	Bacillus	database	1.0			1299	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus endozanthoxylicus	Bacillus	database	1.0			141013	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus fungorum	Bacillus	database	1.0			167978	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus licheniformis	Bacillus	database	1.0			713	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus licheniformis	Bacillus	database	1.0			712	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus licheniformis	Bacillus	database	1.0			711	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus licheniformis	Bacillus	database	1.0			710	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus licheniformis	Bacillus	database	1.0			709	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus licheniformis	Bacillus	database	1.0			708	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus licheniformis	Bacillus	database	1.0			707	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus licheniformis	Bacillus	database	1.0			706	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus licheniformis	Bacillus	database	1.0			705	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus licheniformis	Bacillus	database	1.0			704	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus licheniformis	Bacillus	database	1.0			703	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus licheniformis	Bacillus	database	1.0			702	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus licheniformis	Bacillus	database	1.0			701	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus licheniformis	Bacillus	database	1.0			700	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus licheniformis	Bacillus	database	1.0			699	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus licheniformis	Bacillus	database	1.0			686	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus licheniformis	Bacillus	database	1.0			23616	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus licheniformis	Bacillus	database	1.0			23615	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus licheniformis	Bacillus	database	1.0			22912	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus licheniformis	Bacillus	database	1.0			130860	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus licheniformis	Bacillus	database	1.0			130859	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus licheniformis	Bacillus	database	1.0			130167	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus licheniformis	Bacillus	database	1.0			130166	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus licheniformis	Bacillus	database	1.0			130165	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus licheniformis	Bacillus	database	1.0			131627	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus licheniformis	Bacillus	database	1.0			158839	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus licheniformis	Bacillus	database	1.0			158838	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus licheniformis	Bacillus	database	1.0			157593	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus licheniformis	Bacillus	database	1.0			169170	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus licheniformis	Bacillus	database	1.0			169169	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus licheniformis	Bacillus	database	1.0			169168	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus licheniformis	Bacillus	database	1.0			169167	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus luti	Bacillus	database	1.0			140965	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus methanolicus	Bacillus	database	1.0			1231	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus mobilis	Bacillus	database	1.0			140964	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus mojavensis	Bacillus	database	1.0			1098	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus mojavensis	Bacillus	database	1.0			1097	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus mojavensis	Bacillus	database	1.0			1096	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus mojavensis	Bacillus	database	1.0			1101	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus mojavensis	Bacillus	database	1.0			1100	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus mojavensis	Bacillus	database	1.0			1099	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus mojavensis	Bacillus	database	1.0			131050	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus mojavensis	Bacillus	database	1.0			131049	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus mycoides	Bacillus	database	1.0			23641	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus mycoides	Bacillus	database	1.0			23640	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus mycoides	Bacillus	database	1.0			23639	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus mycoides	Bacillus	database	1.0			23638	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus mycoides	Bacillus	database	1.0			23637	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus mycoides	Bacillus	database	1.0			23643	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus mycoides	Bacillus	database	1.0			23642	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus nitratireducens	Bacillus	database	1.0			140967	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus pacificus	Bacillus	database	1.0			140961	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus paranthracis	Bacillus	database	1.0			140960	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus proteolyticus	Bacillus	database	1.0			140966	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus pumilus	Bacillus	database	1.0			781	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus pumilus	Bacillus	database	1.0			780	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus pumilus	Bacillus	database	1.0			779	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus pumilus	Bacillus	database	1.0			778	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus pumilus	Bacillus	database	1.0			777	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus pumilus	Bacillus	database	1.0			776	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus pumilus	Bacillus	database	1.0			775	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus pumilus	Bacillus	database	1.0			774	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus pumilus	Bacillus	database	1.0			773	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus pumilus	Bacillus	database	1.0			772	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus pumilus	Bacillus	database	1.0			771	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus pumilus	Bacillus	database	1.0			770	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus pumilus	Bacillus	database	1.0			769	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus pumilus	Bacillus	database	1.0			768	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus pumilus	Bacillus	database	1.0			767	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus pumilus	Bacillus	database	1.0			766	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus pumilus	Bacillus	database	1.0			765	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus pumilus	Bacillus	database	1.0			764	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus pumilus	Bacillus	database	1.0			763	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus pumilus	Bacillus	database	1.0			762	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus pumilus	Bacillus	database	1.0			761	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus pumilus	Bacillus	database	1.0			760	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus pumilus	Bacillus	database	1.0			130862	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus pumilus	Bacillus	database	1.0			130861	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus pumilus	Bacillus	database	1.0			130170	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus pumilus	Bacillus	database	1.0			130169	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus pumilus	Bacillus	database	1.0			130168	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus pumilus	Bacillus	database	1.0			131633	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus pumilus	Bacillus	database	1.0			131632	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus pumilus	Bacillus	database	1.0			131631	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus pumilus	Bacillus	database	1.0			131630	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus pumilus	Bacillus	database	1.0			139688	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus safensis subsp. safensis	Bacillus	database	1.0			158109	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus safensis subsp. osmophilus	Bacillus	database	1.0			166417	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus shivajii	Bacillus	database	1.0			159795	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus smithii	Bacillus	database	1.0			815	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus sonorensis	Bacillus	database	1.0			131635	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus sp.	Bacillus	database	1.0			958	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus sp.	Bacillus	database	1.0			955	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus sp.	Bacillus	database	1.0			954	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus sp.	Bacillus	database	1.0			953	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus sp.	Bacillus	database	1.0			952	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus sp.	Bacillus	database	1.0			951	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus sp.	Bacillus	database	1.0			950	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus sp.	Bacillus	database	1.0			949	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus sp.	Bacillus	database	1.0			948	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus sp.	Bacillus	database	1.0			947	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus sp.	Bacillus	database	1.0			946	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus sp.	Bacillus	database	1.0			945	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus sp.	Bacillus	database	1.0			925	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus sp.	Bacillus	database	1.0			924	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus sp.	Bacillus	database	1.0			923	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus sp.	Bacillus	database	1.0			922	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus sp.	Bacillus	database	1.0			130875	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus sp.	Bacillus	database	1.0			130874	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus sp.	Bacillus	database	1.0			130873	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus sp.	Bacillus	database	1.0			130872	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus sp.	Bacillus	database	1.0			130871	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus sp.	Bacillus	database	1.0			130870	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus sp.	Bacillus	database	1.0			130869	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus sp.	Bacillus	database	1.0			130868	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus sp.	Bacillus	database	1.0			130184	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus sp.	Bacillus	database	1.0			130183	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus sp.	Bacillus	database	1.0			158868	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus sp.	Bacillus	database	1.0			158867	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus sp.	Bacillus	database	1.0			158866	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus sp.	Bacillus	database	1.0			158865	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus sp.	Bacillus	database	1.0			158864	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus sp.	Bacillus	database	1.0			158862	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus sp.	Bacillus	database	1.0			158861	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus sp.	Bacillus	database	1.0			158860	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus sp.	Bacillus	database	1.0			157621	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus sp.	Bacillus	database	1.0			157605	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus sp.	Bacillus	database	1.0			157604	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus sp.	Bacillus	database	1.0			157603	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus sp.	Bacillus	database	1.0			169195	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus sp.	Bacillus	database	1.0			169194	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			985	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			984	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			983	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			982	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			981	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			980	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			971	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			970	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			964	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			1001	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			1000	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			999	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			998	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			997	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			996	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			995	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			994	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			993	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			992	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			991	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			990	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			989	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			988	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			987	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			986	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			22919	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			22918	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			22917	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			22916	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			22915	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			130878	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			130877	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			130189	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			130188	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			130187	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			130186	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			130185	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			23668	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			23667	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			131655	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			131654	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			131653	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			131652	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			130881	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			130880	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			130879	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			137292	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			142101	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			158873	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			158872	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			158871	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			158870	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			158869	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus subtilis	Bacillus	database	1.0			157622	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus thermoamylovorans	Bacillus	database	1.0			1197	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Bacillus tropicus	Bacillus	database	1.0			140962	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Heyndrickxia coagulans	Bacillus	database	1.0			655	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Niallia circulans	Bacillus	database	1.0			644	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Niallia circulans	Bacillus	database	1.0			139687	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Niallia circulans	Bacillus	database	1.0			157592	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Niallia circulans	Bacillus	database	1.0			157591	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Niallia circulans	Bacillus	database	1.0			157590	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Niallia taxi	Bacillus	database	1.0			164454	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas abyssi	Pseudomonas	database	1.0			159712	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas aeruginosa	Pseudomonas	database	1.0			159020	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas aeruginosa	Pseudomonas	database	1.0			161468	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas alkylphenolica	Pseudomonas	database	1.0			161808	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas amygdali	Pseudomonas	database	1.0			13051	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas atacamensis	Pseudomonas	database	1.0			166373	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas avellanae	Pseudomonas	database	1.0			13058	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas canadensis	Pseudomonas	database	1.0			133410	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas chlororaphis subsp. piscium	Pseudomonas	database	1.0			13181	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas cichorii	Pseudomonas	database	1.0			12817	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas citronellolis	Pseudomonas	database	1.0			12823	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas edaphica	Pseudomonas	database	1.0			166232	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas flavescens	Pseudomonas	database	1.0			13060	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas fluorescens	Pseudomonas	database	1.0			12859	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas glycinae	Pseudomonas	database	1.0			166380	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas graminis	Pseudomonas	database	1.0			131075	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas huaxiensis	Pseudomonas	database	1.0			164413	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas jilinensis	Pseudomonas	database	1.0			166137	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas laurylsulfativorans	Pseudomonas	database	1.0			159659	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas luteola	Pseudomonas	database	1.0			13047	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas luteola	Pseudomonas	database	1.0			13046	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas nitroreducens	Pseudomonas	database	1.0			146190	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas populi	Pseudomonas	database	1.0			140904	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas profundi	Pseudomonas	database	1.0			158812	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas putida	Pseudomonas	database	1.0			12924	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas putida	Pseudomonas	database	1.0			12896	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas qingdaonensis	Pseudomonas	database	1.0			164301	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas reidholzensis	Pseudomonas	database	1.0			140983	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas rhodesiae	Pseudomonas	database	1.0			12862	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas saliphila	Pseudomonas	database	1.0			166315	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas savastanoi	Pseudomonas	database	1.0			12932	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas savastanoi	Pseudomonas	database	1.0			12927	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas silesiensis	Pseudomonas	database	1.0			158344	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas sivasensis	Pseudomonas	database	1.0			170903	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas sp.	Pseudomonas	database	1.0			13089	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas sp.	Pseudomonas	database	1.0			13088	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas sp.	Pseudomonas	database	1.0			12991	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas sp.	Pseudomonas	database	1.0			12990	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas sp.	Pseudomonas	database	1.0			13090	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas sp.	Pseudomonas	database	1.0			148954	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas sp.	Pseudomonas	database	1.0			159036	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas sp.	Pseudomonas	database	1.0			159035	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas sp.	Pseudomonas	database	1.0			159034	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas sp.	Pseudomonas	database	1.0			159033	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas sp.	Pseudomonas	database	1.0			157815	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas sp.	Pseudomonas	database	1.0			157814	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas sp.	Pseudomonas	database	1.0			157813	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas sp.	Pseudomonas	database	1.0			157810	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas sp.	Pseudomonas	database	1.0			157809	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas sp.	Pseudomonas	database	1.0			157808	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas syringae	Pseudomonas	database	1.0			13020	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas syringae	Pseudomonas	database	1.0			23205	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas syringae	Pseudomonas	database	1.0			157475	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas turukhanskensis	Pseudomonas	database	1.0			133231	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	pea		Pseudomonas wadenswilerensis	Pseudomonas	database	1.0			140982	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	potato		Bacillus cereus	Bacillus	database	1.0			171576	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	potato		Bacillus subtilis	Bacillus	database	1.0			979	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	potato		Bacillus subtilis	Bacillus	database	1.0			157307	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	potato		Bacillus thuringiensis	Bacillus	database	1.0			1031	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	potato		Bacillus velezensis	Bacillus	database	1.0			153720	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	potato		Pseudomonas chlororaphis subsp. aureofaciens	Pseudomonas	database	1.0			12816	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	potato		Pseudomonas donghuensis	Pseudomonas	database	1.0			131382	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	potato		Pseudomonas endophytica	Pseudomonas	database	1.0			168177	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	potato		Pseudomonas grimontii	Pseudomonas	database	1.0			12865	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	potato		Pseudomonas nunensis	Pseudomonas	database	1.0			170568	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	potato		Pseudomonas punonensis	Pseudomonas	database	1.0			24438	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	potato		Pseudomonas tolaasii	Pseudomonas	database	1.0			13053	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	sunflower		Pseudomonas aeruginosa	Pseudomonas	database	1.0			12795	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Azospirillum baldaniorum	Azospirillum	database	1.0			167292	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Azospirillum brasilense	Azospirillum	database	1.0			146216	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Azospirillum brasilense	Azospirillum	database	1.0			13980	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Azospirillum brasilense	Azospirillum	database	1.0			13973	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Azospirillum brasilense	Azospirillum	database	1.0			13972	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Azospirillum canadense	Azospirillum	database	1.0			134232	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Azospirillum largimobile	Azospirillum	database	1.0			13984	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Azospirillum largimobile	Azospirillum	database	1.0			13983	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Azospirillum lipoferum	Azospirillum	database	1.0			137718	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Azospirillum melinis	Azospirillum	database	1.0			134169	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Azospirillum picis	Azospirillum	database	1.0			13999	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Azospirillum rugosum	Azospirillum	database	1.0			13998	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Azospirillum thiophilum	Azospirillum	database	1.0			14000	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Azospirillum zeae	Azospirillum	database	1.0			134266	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Bacillus amyloliquefaciens	Bacillus	database	1.0			598	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Bacillus atrophaeus	Bacillus	database	1.0			1077	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Bacillus cabrialesii	Bacillus	database	1.0			166294	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Bacillus cereus	Bacillus	database	1.0			628	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Bacillus cereus	Bacillus	database	1.0			624	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Bacillus cereus	Bacillus	database	1.0			623	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Bacillus cereus	Bacillus	database	1.0			605	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Bacillus cereus	Bacillus	database	1.0			171577	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Bacillus cereus	Bacillus	database	1.0			171509	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Bacillus cereus	Bacillus	database	1.0			172006	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Bacillus cereus	Bacillus	database	1.0			172116	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Bacillus cereus	Bacillus	database	1.0			172115	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Bacillus cereus	Bacillus	database	1.0			172095	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Bacillus cytotoxicus	Bacillus	database	1.0			1323	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Bacillus haynesii	Bacillus	database	1.0			140691	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Bacillus inaquosorum	Bacillus	database	1.0			1289	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Bacillus licheniformis	Bacillus	database	1.0			689	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Bacillus mycoides	Bacillus	database	1.0			1153	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Bacillus nakamurai	Bacillus	database	1.0			140523	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Bacillus pseudomycoides	Bacillus	database	1.0			1151	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Bacillus pumilus	Bacillus	database	1.0			756	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Bacillus siamensis	Bacillus	database	1.0			1302	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Bacillus sonorensis	Bacillus	database	1.0			1201	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Bacillus sp.	Bacillus	database	1.0			836	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Bacillus sp.	Bacillus	database	1.0			139695	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Bacillus subtilis	Bacillus	database	1.0			1172	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Bacillus tequilensis	Bacillus	database	1.0			134164	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Bacillus tianshenii	Bacillus	database	1.0			23717	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Bacillus vallismortis	Bacillus	database	1.0			1150	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Bacillus velezensis	Bacillus	database	1.0			1310	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Bacillus wiedmannii	Bacillus	database	1.0			133012	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Heyndrickxia coagulans	Bacillus	database	1.0			650	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Niallia circulans	Bacillus	database	1.0			642	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas aeruginosa	Pseudomonas	database	1.0			12800	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas aeruginosa	Pseudomonas	database	1.0			12784	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas aeruginosa	Pseudomonas	database	1.0			12768	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas aeruginosa	Pseudomonas	database	1.0			12758	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas aeruginosa	Pseudomonas	database	1.0			134453	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas aeruginosa	Pseudomonas	database	1.0			137804	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas aeruginosa	Pseudomonas	database	1.0			163413	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas alcaligenes	Pseudomonas	database	1.0			12807	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas azotoformans	Pseudomonas	database	1.0			13141	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas baetica	Pseudomonas	database	1.0			13189	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas brassicacearum	Pseudomonas	database	1.0			176791	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas brassicacearum subsp. neoaurantiaca	Pseudomonas	database	1.0			13174	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas brenneri	Pseudomonas	database	1.0			13087	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas chlororaphis	Pseudomonas	database	1.0			13160	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas chlororaphis subsp. aureofaciens	Pseudomonas	database	1.0			13158	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas corrugata	Pseudomonas	database	1.0			13044	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas crudilactis	Pseudomonas	database	1.0			169712	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas cyclaminis	Pseudomonas	database	1.0			167286	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas extremorientalis	Pseudomonas	database	1.0			13091	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas fluorescens	Pseudomonas	database	1.0			12851	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas folii	Pseudomonas	database	1.0			170027	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas frederiksbergensis	Pseudomonas	database	1.0			13063	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas granadensis	Pseudomonas	database	1.0			130577	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas japonica	Pseudomonas	database	1.0			13165	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas jessenii	Pseudomonas	database	1.0			13111	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas koreensis	Pseudomonas	database	1.0			13097	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas lactis	Pseudomonas	database	1.0			140299	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas linyingensis	Pseudomonas	database	1.0			168024	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas lurida	Pseudomonas	database	1.0			13092	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas mendocina	Pseudomonas	database	1.0			12866	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas nitritireducens	Pseudomonas	database	1.0			170026	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas nitroreducens	Pseudomonas	database	1.0			13080	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas oryzihabitans	Pseudomonas	database	1.0			13048	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas pergaminensis	Pseudomonas	database	1.0			174705	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas plecoglossicida	Pseudomonas	database	1.0			13086	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas prosekii	Pseudomonas	database	1.0			169070	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas protegens	Pseudomonas	database	1.0			13154	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas proteolytica	Pseudomonas	database	1.0			13095	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas psychrotolerans	Pseudomonas	database	1.0			13105	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas putida	Pseudomonas	database	1.0			12871	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas resinovorans	Pseudomonas	database	1.0			13147	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas serbica	Pseudomonas	database	1.0			175992	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas serboccidentalis	Pseudomonas	database	1.0			175993	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas sp.	Pseudomonas	database	1.0			176547	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas sp.	Pseudomonas	database	1.0			176546	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas sp.	Pseudomonas	database	1.0			176545	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas sp.	Pseudomonas	database	1.0			176544	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas sp.	Pseudomonas	database	1.0			176543	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas sp.	Pseudomonas	database	1.0			176542	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas sp.	Pseudomonas	database	1.0			176541	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas sp.	Pseudomonas	database	1.0			176540	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas sp.	Pseudomonas	database	1.0			176539	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas sp.	Pseudomonas	database	1.0			176538	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas sp.	Pseudomonas	database	1.0			176537	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas sp.	Pseudomonas	database	1.0			176536	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas sp.	Pseudomonas	database	1.0			176554	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas sp.	Pseudomonas	database	1.0			176553	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas sp.	Pseudomonas	database	1.0			176552	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas sp.	Pseudomonas	database	1.0			176551	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas syringae	Pseudomonas	database	1.0			13027	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas syringae	Pseudomonas	database	1.0			13026	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas syringae	Pseudomonas	database	1.0			13024	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas syringae	Pseudomonas	database	1.0			24421	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas syringae	Pseudomonas	database	1.0			24420	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas syringae	Pseudomonas	database	1.0			157454	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas thivervalensis	Pseudomonas	database	1.0			13066	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	wheat		Pseudomonas triticifolii	Pseudomonas	database	1.0			170028	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Azospirillum isscasi	Azospirillum	database	1.0			175857	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Azospirillum oryzae	Azospirillum	database	1.0			134118	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Azospirillum sp.	Azospirillum	database	1.0			161536	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Azospirillum sp.	Azospirillum	database	1.0			161518	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Azospirillum sp.	Azospirillum	database	1.0			161517	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Bacillus benzoevorans	Bacillus	database	1.0			1069	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Bacillus bingmayongensis	Bacillus	database	1.0			23663	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Bacillus cereus	Bacillus	database	1.0			622	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Bacillus cereus	Bacillus	database	1.0			137410	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Bacillus cereus	Bacillus	database	1.0			139523	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Bacillus cereus	Bacillus	database	1.0			139039	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Bacillus cereus	Bacillus	database	1.0			171860	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Bacillus cereus	Bacillus	database	1.0			171859	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Bacillus cereus	Bacillus	database	1.0			171857	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Bacillus cereus	Bacillus	database	1.0			172100	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Bacillus cereus	Bacillus	database	1.0			172096	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Bacillus cereus	Bacillus	database	1.0			172217	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Bacillus halotolerans	Bacillus	database	1.0			1847	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Bacillus infantis	Bacillus	database	1.0			1265	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Bacillus licheniformis	Bacillus	database	1.0			135707	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Bacillus mojavensis	Bacillus	database	1.0			1093	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Bacillus mycoides	Bacillus	database	1.0			745	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Bacillus paramycoides	Bacillus	database	1.0			140968	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Bacillus pumilus	Bacillus	database	1.0			751	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Bacillus subtilis	Bacillus	database	1.0			1003	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Bacillus subtilis	Bacillus	database	1.0			135900	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Bacillus thuringiensis	Bacillus	database	1.0			139229	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Bacillus timonensis	Bacillus	database	1.0			1320	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Bacillus velezensis	Bacillus	database	1.0			23706	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Niallia oryzisoli	Bacillus	database	1.0			132616	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas aeruginosa	Pseudomonas	database	1.0			12804	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas aeruginosa	Pseudomonas	database	1.0			12759	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas aeruginosa	Pseudomonas	database	1.0			136907	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas aeruginosa	Pseudomonas	database	1.0			162724	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas anguilliseptica	Pseudomonas	database	1.0			13061	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas antarctica	Pseudomonas	database	1.0			13093	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas asplenii	Pseudomonas	database	1.0			13049	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas beijingensis	Pseudomonas	database	1.0			175988	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas cremoricolorata	Pseudomonas	database	1.0			13109	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas entomophila	Pseudomonas	database	1.0			24436	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas fragi	Pseudomonas	database	1.0			12861	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas fulva	Pseudomonas	database	1.0			13126	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas gessardii	Pseudomonas	database	1.0			13110	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas guangdongensis	Pseudomonas	database	1.0			130575	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas lundensis	Pseudomonas	database	1.0			13017	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas majoricensis	Pseudomonas	database	1.0			157061	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas marginalis	Pseudomonas	database	1.0			12863	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas monteilii	Pseudomonas	database	1.0			13074	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas mosselii	Pseudomonas	database	1.0			13117	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas oryzagri	Pseudomonas	database	1.0			170043	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas oryzihabitans	Pseudomonas	database	1.0			164841	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas oryzihabitans	Pseudomonas	database	1.0			164840	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas oryzihabitans	Pseudomonas	database	1.0			164839	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas oryzihabitans	Pseudomonas	database	1.0			164838	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas oryzihabitans	Pseudomonas	database	1.0			164837	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas oryzihabitans	Pseudomonas	database	1.0			164836	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas oryzihabitans	Pseudomonas	database	1.0			164835	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas oryzihabitans	Pseudomonas	database	1.0			164834	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas oryzihabitans	Pseudomonas	database	1.0			164833	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas oryzihabitans	Pseudomonas	database	1.0			164832	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas oryzihabitans	Pseudomonas	database	1.0			164830	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas oryzihabitans	Pseudomonas	database	1.0			164829	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas otitidis	Pseudomonas	database	1.0			13113	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas palleroniana	Pseudomonas	database	1.0			13107	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas paraeruginosa	Pseudomonas	database	1.0			12760	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas parafulva	Pseudomonas	database	1.0			13108	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas putida	Pseudomonas	database	1.0			134979	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas putida	Pseudomonas	database	1.0			162815	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas putida	Pseudomonas	database	1.0			162701	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas rhizoryzae	Pseudomonas	database	1.0			164481	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas sagittaria	Pseudomonas	database	1.0			24439	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas salomonii	Pseudomonas	database	1.0			158046	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas saponiphila	Pseudomonas	database	1.0			13187	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas sp.	Pseudomonas	database	1.0			157811	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas sp.	Pseudomonas	database	1.0			173621	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas straminea	Pseudomonas	database	1.0			13128	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas syringae	Pseudomonas	database	1.0			130572	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas taetrolens	Pseudomonas	database	1.0			13148	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas viridiflava	Pseudomonas	database	1.0			13016	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rice		Pseudomonas viridiflava	Pseudomonas	database	1.0			24401	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rye		Bacillus cereus	Bacillus	database	1.0			621	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rye		Pseudomonas aeruginosa	Pseudomonas	database	1.0			12801	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rye		Pseudomonas aeruginosa	Pseudomonas	database	1.0			12764	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rye		Pseudomonas campi	Pseudomonas	database	1.0			166589	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rye		Pseudomonas fluorescens	Pseudomonas	database	1.0			12852	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rye		Pseudomonas guryensis	Pseudomonas	database	1.0			168167	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rye		Pseudomonas oleovorans	Pseudomonas	database	1.0			12867	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rye		Pseudomonas putida	Pseudomonas	database	1.0			12901	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	rye		Pseudomonas ullengensis	Pseudomonas	database	1.0			167222	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Bacillus altitudinis	Bacillus	database	1.0			1263	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Bacillus benzoevorans	Bacillus	database	1.0			1071	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Bacillus benzoevorans	Bacillus	database	1.0			1068	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Bacillus cereus	Bacillus	database	1.0			625	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Bacillus cereus	Bacillus	database	1.0			172104	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Bacillus ectoiniformans	Bacillus	database	1.0			132385	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Bacillus glycinifermentans	Bacillus	database	1.0			167765	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Bacillus licheniformis	Bacillus	database	1.0			688	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Bacillus paralicheniformis	Bacillus	database	1.0			168081	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Bacillus pumilus	Bacillus	database	1.0			752	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Bacillus pumilus	Bacillus	database	1.0			757	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Bacillus safensis subsp. safensis	Bacillus	database	1.0			1264	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Bacillus subtilis	Bacillus	database	1.0			966	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Bacillus subtilis	Bacillus	database	1.0			965	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Bacillus subtilis	Bacillus	database	1.0			1186	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Bacillus subtilis	Bacillus	database	1.0			1176	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Bacillus subtilis	Bacillus	database	1.0			1175	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Bacillus subtilis	Bacillus	database	1.0			1173	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Bacillus subtilis	Bacillus	database	1.0			1160	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Bacillus subtilis	Bacillus	database	1.0			1156	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Bacillus subtilis	Bacillus	database	1.0			136375	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Bacillus subtilis	Bacillus	database	1.0			162758	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Bacillus subtilis	Bacillus	database	1.0			162755	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Bacillus subtilis	Bacillus	database	1.0			162746	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Bacillus subtilis	Bacillus	database	1.0			162738	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Bacillus subtilis	Bacillus	database	1.0			162736	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Bacillus subtilis	Bacillus	database	1.0			162729	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Bacillus subtilis	Bacillus	database	1.0			162718	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Bacillus subtilis	Bacillus	database	1.0			162708	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Bacillus subtilis	Bacillus	database	1.0			162706	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Bacillus thuringiensis	Bacillus	database	1.0			1012	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas aeruginosa	Pseudomonas	database	1.0			24865	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas akapageensis	Pseudomonas	database	1.0			164624	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas aphyarum	Pseudomonas	database	1.0			176000	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas asturiensis	Pseudomonas	database	1.0			130574	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas citronellolis	Pseudomonas	database	1.0			12821	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas congelans	Pseudomonas	database	1.0			13085	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas deceptionensis	Pseudomonas	database	1.0			13185	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas ficuserectae	Pseudomonas	database	1.0			13168	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas fluorescens	Pseudomonas	database	1.0			12853	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas fluorescens	Pseudomonas	database	1.0			12846	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas fluorescens	Pseudomonas	database	1.0			12845	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas fluorescens	Pseudomonas	database	1.0			12844	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas fluorescens	Pseudomonas	database	1.0			12835	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas fluorescens	Pseudomonas	database	1.0			12834	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas fluorescens	Pseudomonas	database	1.0			12833	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas fontis	Pseudomonas	database	1.0			176002	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas frederiksbergensis	Pseudomonas	database	1.0			131078	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas graminis	Pseudomonas	database	1.0			13062	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas guineae	Pseudomonas	database	1.0			13161	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas haemolytica	Pseudomonas	database	1.0			168358	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas hydrolytica	Pseudomonas	database	1.0			160316	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas kribbensis	Pseudomonas	database	1.0			131891	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas moraviensis	Pseudomonas	database	1.0			159531	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas nitroreducens	Pseudomonas	database	1.0			13077	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas oleovorans	Pseudomonas	database	1.0			12868	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas oleovorans subsp. lubricantis	Pseudomonas	database	1.0			13179	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas poae	Pseudomonas	database	1.0			13083	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas psychrophila	Pseudomonas	database	1.0			13120	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas putida	Pseudomonas	database	1.0			12911	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas putida	Pseudomonas	database	1.0			12909	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas putida	Pseudomonas	database	1.0			12904	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas putida	Pseudomonas	database	1.0			134429	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas savastanoi	Pseudomonas	database	1.0			12928	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas savastanoi	Pseudomonas	database	1.0			134749	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas saxonica	Pseudomonas	database	1.0			159624	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas saxonica	Pseudomonas	database	1.0			159623	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas sp.	Pseudomonas	database	1.0			12963	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas sp.	Pseudomonas	database	1.0			12953	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas sp.	Pseudomonas	database	1.0			12952	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas sp.	Pseudomonas	database	1.0			12943	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas sp.	Pseudomonas	database	1.0			13043	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas sp.	Pseudomonas	database	1.0			12973	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas sp.	Pseudomonas	database	1.0			169279	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas syringae	Pseudomonas	database	1.0			13030	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas syringae	Pseudomonas	database	1.0			13028	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas syringae	Pseudomonas	database	1.0			13025	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas syringae	Pseudomonas	database	1.0			142734	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas syringae	Pseudomonas	database	1.0			150021	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas syringae	Pseudomonas	database	1.0			157453	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas thermotolerans	Pseudomonas	database	1.0			13075	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	soybean		Pseudomonas trivialis	Pseudomonas	database	1.0			13084	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	табак		Azospirillum brasilense	Azospirillum	database	1.0			138933	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	табак		Bacillus pumilus	Bacillus	database	1.0			754	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	табак		Bacillus sp.	Bacillus	database	1.0			159954	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	табак		Bacillus subtilis	Bacillus	database	1.0			976	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	табак		Bacillus subtilis	Bacillus	database	1.0			135255	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	табак		Bacillus toyonensis	Bacillus	database	1.0			168280	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	табак		Pseudomonas brassicae	Pseudomonas	database	1.0			167249	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	табак		Pseudomonas cichorii	Pseudomonas	database	1.0			157422	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	табак		Pseudomonas coleopterorum	Pseudomonas	database	1.0			168067	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	табак		Pseudomonas laurentiana	Pseudomonas	database	1.0			164208	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	табак		Pseudomonas lijiangensis	Pseudomonas	database	1.0			170042	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	табак		Pseudomonas lutea	Pseudomonas	database	1.0			13114	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	табак		Pseudomonas moorei	Pseudomonas	database	1.0			13157	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	табак		Pseudomonas palmensis	Pseudomonas	database	1.0			166816	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	табак		Pseudomonas rhizosphaerae	Pseudomonas	database	1.0			13096	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	табак		Pseudomonas syringae	Pseudomonas	database	1.0			13022	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	табак		Pseudomonas syringae	Pseudomonas	database	1.0			157456	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	табак		Pseudomonas vranovensis	Pseudomonas	database	1.0			13150	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	tomato		Bacillus cereus	Bacillus	database	1.0			171845	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	tomato		Bacillus halotolerans	Bacillus	database	1.0			134137	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	tomato		Bacillus halotolerans	Bacillus	database	1.0			135750	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	tomato		Bacillus mojavensis	Bacillus	database	1.0			1095	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	tomato		Bacillus mycoides	Bacillus	database	1.0			132716	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	tomato		Bacillus mycoides	Bacillus	database	1.0			132715	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	tomato		Bacillus mycoides	Bacillus	database	1.0			132714	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	tomato		Bacillus mycoides	Bacillus	database	1.0			132713	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	tomato		Bacillus mycoides	Bacillus	database	1.0			132712	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	tomato		Bacillus mycoides	Bacillus	database	1.0			132711	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	tomato		Bacillus mycoides	Bacillus	database	1.0			132710	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	tomato		Bacillus mycoides	Bacillus	database	1.0			132709	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	tomato		Bacillus mycoides	Bacillus	database	1.0			132708	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	tomato		Bacillus mycoides	Bacillus	database	1.0			132707	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	tomato		Bacillus mycoides	Bacillus	database	1.0			132706	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	tomato		Bacillus mycoides	Bacillus	database	1.0			132705	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	tomato		Bacillus mycoides	Bacillus	database	1.0			132704	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	tomato		Bacillus thuringiensis	Bacillus	database	1.0			132703	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	tomato		Bacillus thuringiensis	Bacillus	database	1.0			132702	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	tomato		Bacillus thuringiensis	Bacillus	database	1.0			132701	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	tomato		Bacillus thuringiensis	Bacillus	database	1.0			132700	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	tomato		Bacillus thuringiensis	Bacillus	database	1.0			132699	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	tomato		Bacillus thuringiensis	Bacillus	database	1.0			132698	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	tomato		Bacillus thuringiensis	Bacillus	database	1.0			132697	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	tomato		Heyndrickxia coagulans	Bacillus	database	1.0			654	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	tomato		Heyndrickxia coagulans	Bacillus	database	1.0			649	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	tomato		Pseudomonas aeruginosa	Pseudomonas	database	1.0			130565	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	tomato		Pseudomonas agarici	Pseudomonas	database	1.0			13059	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	tomato		Pseudomonas allii	Pseudomonas	database	1.0			166666	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	tomato		Pseudomonas corrugata	Pseudomonas	database	1.0			157426	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	tomato		Pseudomonas floridensis	Pseudomonas	database	1.0			158761	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	tomato		Pseudomonas fluorescens	Pseudomonas	database	1.0			12858	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	tomato		Pseudomonas fluorescens	Pseudomonas	database	1.0			12854	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	tomato		Pseudomonas fluorescens	Pseudomonas	database	1.0			141379	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	tomato		Pseudomonas fluorescens	Pseudomonas	database	1.0			153803	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	tomato		Pseudomonas mediterranea	Pseudomonas	database	1.0			13102	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	tomato		Pseudomonas putida	Pseudomonas	database	1.0			135753	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	tomato		Pseudomonas sp.	Pseudomonas	database	1.0			12879	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	tomato		Pseudomonas syringae	Pseudomonas	database	1.0			13040	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	bean		Bacillus cereus	Bacillus	database	1.0			136846	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	bean		Bacillus cereus	Bacillus	database	1.0			171515	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	bean		Bacillus mexicanus	Bacillus	database	1.0			175740	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	bean		Pseudomonas aeruginosa	Pseudomonas	database	1.0			136459	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	bean		Pseudomonas aeruginosa	Pseudomonas	database	1.0			161304	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	bean		Pseudomonas bijieensis	Pseudomonas	database	1.0			166756	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	bean		Pseudomonas brassicacearum	Pseudomonas	database	1.0			13068	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	bean		Pseudomonas canavaninivorans	Pseudomonas	database	1.0			166864	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	bean		Pseudomonas fluorescens	Pseudomonas	database	1.0			24373	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	bean		Pseudomonas kilonensis	Pseudomonas	database	1.0			13070	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	bean		Pseudomonas marginalis	Pseudomonas	database	1.0			157434	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	bean		Pseudomonas nitroreducens	Pseudomonas	database	1.0			13076	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	bean		Pseudomonas savastanoi	Pseudomonas	database	1.0			12931	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	bean		Pseudomonas savastanoi	Pseudomonas	database	1.0			12930	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	bean		Pseudomonas savastanoi	Pseudomonas	database	1.0			12929	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	bean		Pseudomonas syringae	Pseudomonas	database	1.0			13032	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	bean		Pseudomonas syringae	Pseudomonas	database	1.0			142732	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	bean		Pseudomonas syringae	Pseudomonas	database	1.0			157473	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	bean		Pseudomonas syringae	Pseudomonas	database	1.0			157447	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	bean		Pseudomonas viciae	Pseudomonas	database	1.0			167123	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	bean		Pseudomonas viridiflava	Pseudomonas	database	1.0			144183	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	bean		Pseudomonas viridiflava	Pseudomonas	database	1.0			157487	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	хлопок		Bacillus cereus	Bacillus	database	1.0			172151	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	хлопок		Pseudomonas aeruginosa	Pseudomonas	database	1.0			130996	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	хлопок		Pseudomonas fluorescens	Pseudomonas	database	1.0			134568	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	хлопок		Pseudomonas oryzihabitans	Pseudomonas	database	1.0			141648	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	хлопок		Pseudomonas putida	Pseudomonas	database	1.0			130999	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	хлопок		Stenotrophomonas maltophilia	Pseudomonas	database	1.0			13142	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	barley		Bacillus cereus	Bacillus	database	1.0			172105	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	barley		Bacillus subtilis	Bacillus	database	1.0			967	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	barley		Bacillus thuringiensis	Bacillus	database	1.0			1045	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	barley		Bacillus thuringiensis	Bacillus	database	1.0			1006	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	barley		Pseudomonas chlororaphis subsp. aurantiaca	Pseudomonas	database	1.0			13159	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	barley		Pseudomonas lini	Pseudomonas	database	1.0			13106	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	barley		Pseudomonas putida	Pseudomonas	database	1.0			12899	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	barley		Pseudomonas taiwanensis	Pseudomonas	database	1.0			13180	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+BacDive	barley		Pseudomonas veronii	Pseudomonas	database	1.0			13055	Выделен из ризосферы / тканей растения; BSL=Проверяется; BacDive DSMZ
+PubMed	rye	Secale cereale	Cover crops	Cover	field	5.0	pathogen	not specified	10.1094/PHYTO-08-22-0291-R	Growth promotion confirmed
+PubMed	rye	Secale cereale	Winter rye plants	Winter	field	5.0	pathogen	not specified	10.3389/fpls.2023.1232288	Growth promotion confirmed
+PubMed	rye	Secale cereale	Cellulose nanofibrils	Cellulose	in vitro	2.0	pathogen, normal growth	not specified	10.1021/acs.biomac.9b00522	Growth promotion confirmed
+PubMed	rye	Secale cereale	Celiac disease is	Celiac	in vitro	2.0	pathogen	not specified	10.3390/nu12123724	Growth promotion confirmed
+PubMed	wheat	Triticum aestivum	Plant growth-promoting	Plant	greenhouse	4.0	drought, salinity, pathogen, normal growth	IAA, phosphate solubilization	10.3390/ijms24119759	Growth promotion confirmed
+PubMed	wheat	Triticum aestivum	Changing climate creates	Changing	greenhouse	4.0	drought, salinity	not specified	10.1016/j.micres.2024.127895	Growth promotion confirmed
+PubMed	wheat	Triticum aestivum	Microbial communities play	Microbial	in vitro	2.0	growth promotion	not specified	10.1038/s41564-025-01973-1	Growth promotion confirmed
+PubMed	wheat	Triticum aestivum	Much of the	Much	in vitro	2.0	pathogen	phosphate solubilization	10.1007/s00248-023-02340-5	Growth promotion confirmed
+PubMed	barley	Hordeum vulgare	Wheat and barley	Wheat	in vitro	2.0	pathogen	not specified	10.1007/s00253-023-12864-y	Growth promotion confirmed
+PubMed	barley	Hordeum vulgare	On average less	On	greenhouse	4.0	pathogen	phosphate solubilization	10.3390/microorganisms9081619	Growth promotion confirmed
+PubMed	barley	Hordeum vulgare	Endophytes in the	Endophytes	in vitro	2.0	pathogen	not specified	10.3389/fmicb.2022.981158	Growth promotion confirmed
+PubMed	barley	Hordeum vulgare	Fusarium graminearum	Fusarium	in vitro	2.0	pathogen	not specified	10.3390/plants11151999	Growth promotion confirmed
+PubMed	rice	Oryza sativa	Native core microbiomes	Native	genome-only	1.0	normal growth	IAA	10.1038/s41467-024-50685-3	Growth promotion confirmed
+PubMed	rice	Oryza sativa	Plant growth-promoting	Plant	greenhouse	4.0	drought, salinity, pathogen, normal growth	IAA, phosphate solubilization	10.3390/ijms24119759	Growth promotion confirmed
+PubMed	rice	Oryza sativa	Greenhouse gases	Greenhouse	greenhouse	4.0	growth promotion	not specified	10.1016/j.tplants.2024.06.006	Growth promotion confirmed
+PubMed	rice	Oryza sativa	Heavy metal resistant	Heavy	in vitro	2.0	pathogen, normal growth	siderophore	10.7717/peerj.13131	Growth promotion confirmed
+PubMed	pea	Pisum sativum	Extensive crop losses	Extensive	in vitro	2.0	pathogen	not specified	10.3389/fmicb.2023.1240206	Growth promotion confirmed
+PubMed	pea	Pisum sativum	Although most soils	Although	in vitro	2.0	normal growth	IAA, ACC, siderophore	10.3389/fmicb.2023.1212702	Growth promotion confirmed
+PubMed	pea	Pisum sativum	Drought and heavy	Drought	pot	3.0	drought	not specified	10.3390/plants11223013	Growth promotion confirmed
+PubMed	pea	Pisum sativum	Tenacibaculum has been	Tenacibaculum	in vitro	2.0	pathogen	not specified	10.1021/acs.jnatprod.1c01173	Growth promotion confirmed
+PubMed	tomato	Solanum lycopersicum	Bacillus spp	Bacillus	in vitro	2.0	pathogen, normal growth	IAA	10.1007/s42770-022-00874-3	Growth promotion confirmed
+PubMed	tomato	Solanum lycopersicum	Disease outbreaks of	Disease	greenhouse	4.0	pathogen	not specified	10.3389/fmicb.2023.1267395	Growth promotion confirmed
+PubMed	tomato	Solanum lycopersicum	Drought adversely affects	Drought	greenhouse	4.0	drought	IAA	10.3389/fpls.2023.1211210	Growth promotion confirmed
+PubMed	tomato	Solanum lycopersicum	Pseudomonas syringae pv	Pseudomonas	greenhouse	4.0	pathogen	not specified	10.1007/s00253-023-12493-5	Growth promotion confirmed
+PubMed	soybean	Glycine max	Plant growth-promoting	Plant	greenhouse	4.0	drought, salinity, pathogen, normal growth	IAA, phosphate solubilization	10.3390/ijms24119759	Growth promotion confirmed
+PubMed	soybean	Glycine max	Nitrous oxide	Nitrous	greenhouse	4.0	growth promotion	not specified	10.3389/fmicb.2019.01943	Growth promotion confirmed
+PubMed	soybean	Glycine max	Thiamin analogs	Thiamin	in vitro	2.0	growth promotion	not specified	10.2527/jas1984.593813x	Growth promotion confirmed
+PubMed	soybean	Glycine max	Fusarium oxysporum	Fusarium	in vitro	2.0	pathogen	IAA, siderophore	10.3390/pathogens12020254	Growth promotion confirmed
+PubMed	bean	Phaseolus vulgaris	Defensin peptide isolated	Defensin	in vitro	2.0	pathogen	not specified	10.29252/ijb.1562	Growth promotion confirmed
+PubMed	bean	Phaseolus vulgaris	Pseudomonas phages are	Pseudomonas	in vitro	2.0	growth promotion	not specified	10.1016/j.jmb.2022.167799	Growth promotion confirmed
+PubMed	bean	Phaseolus vulgaris	Reduced efficacy of	Reduced	in vitro	2.0	pathogen	not specified	10.1039/d0fo00046a	Growth promotion confirmed
+PubMed	bean	Phaseolus vulgaris	Pseudomonas aeruginosa chronic	Pseudomonas	in vitro	2.0	growth promotion	not specified	10.1128/mSphere.00843-20	Growth promotion confirmed
+PubMed	potato	Solanum tuberosum	Using chemical fungicides	Using	field	5.0	pathogen	not specified	10.1021/acs.jafc.4c06866	Growth promotion confirmed
+PubMed	potato	Solanum tuberosum	Potato soft rot	Potato	greenhouse	4.0	pathogen	not specified	10.3390/antibiotics11081117	Growth promotion confirmed
+PubMed	potato	Solanum tuberosum	Rhizosphere microbial communities	Rhizosphere	greenhouse	4.0	pathogen	siderophore	10.1093/femsec/fiae088	Growth promotion confirmed
+PubMed	potato	Solanum tuberosum	Potato common scab	Potato	field	5.0	pathogen	not specified	10.3389/fmicb.2023.1295107	Growth promotion confirmed
+PubMed	табак (nicotiana tabacum)	Nicotiana tabacum	Native core microbiomes	Native	genome-only	1.0	normal growth	IAA	10.1038/s41467-024-50685-3	Growth promotion confirmed
+PubMed	табак (nicotiana tabacum)	Nicotiana tabacum	Soil sickness a	Soil	pot	3.0	pathogen	not specified	10.1038/s41598-024-61291-0	Growth promotion confirmed
+PubMed	табак (nicotiana tabacum)	Nicotiana tabacum	Bladder cancer arises	Bladder	in vitro	2.0	growth promotion	not specified	10.7417/CT.2017.1984	Growth promotion confirmed
+PubMed	табак (nicotiana tabacum)	Nicotiana tabacum	Agricultural pest infestation	Agricultural	genome-only	1.0	growth promotion	not specified	10.1093/jee/toaa211	Growth promotion confirmed
+PubMed	sunflower	Helianthus annuus	Phenolic compounds in	Phenolic	in vitro	2.0	growth promotion	not specified	10.1016/j.crfs.2021.09.007	Growth promotion confirmed
+PubMed	sunflower	Helianthus annuus	Functionalized polyhedral carboranes	Functionalized	in vitro	2.0	pathogen	not specified	10.1007/BF01361661	Growth promotion confirmed
+PubMed	sunflower	Helianthus annuus	Sustainable alternatives are	Sustainable	greenhouse	4.0	salinity	IAA, ACC, phosphate solubilization	10.3934/microbiol.2024041	Growth promotion confirmed
+PubMed	sunflower	Helianthus annuus	Pseudomonas putida G7	Pseudomonas	greenhouse	4.0	pathogen	not specified	10.1016/j.scitotenv.2023.161600	Growth promotion confirmed
+PubMed	хлопок (gossypium)	Gossypium	Although their use	Although	in vitro	2.0	pathogen	not specified	10.3390/foods12020343	Growth promotion confirmed
+PubMed	хлопок (gossypium)	Gossypium	Bee products are	Bee	in vitro	2.0	pathogen	not specified	10.3390/ijms25158034	Growth promotion confirmed
+PubMed	хлопок (gossypium)	Gossypium	Agricultural pest infestation	Agricultural	genome-only	1.0	growth promotion	not specified	10.1093/jee/toaa211	Growth promotion confirmed
+PubMed	хлопок (gossypium)	Gossypium	Cotton is highly	Cotton	greenhouse	4.0	normal growth	not specified	10.3390/microorganisms12071474	Growth promotion confirmed
+GloBI	pea	Pisum sativum	Bacillus cereus	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	pea	Pisum sativum	Bacillus megaterium	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	pea	Pisum sativum	Bradyrhizobium elkanii	Bradyrhizobium	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	pea	Pisum sativum	Bradyrhizobium japonicum	Bradyrhizobium	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	pea	Pisum sativum	Enterobacter cloacae	Enterobacter	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	pea	Pisum sativum	Pantoea agglomerans	Pantoea	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	pea	Pisum sativum	Pseudomonas aeruginosa	Pseudomonas	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	pea	Pisum sativum	Pseudomonas chlororaphis	Pseudomonas	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	pea	Pisum sativum	Pseudomonas fluorescens	Pseudomonas	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	pea	Pisum sativum	Pseudomonas mandelii	Pseudomonas	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	pea	Pisum sativum	Pseudomonas putida	Pseudomonas	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	pea	Pisum sativum	Pseudomonas synxantha	Pseudomonas	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	pea	Pisum sativum	Pseudomonas syringae	Pseudomonas	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	pea	Pisum sativum	Pseudomonas viridiflava	Pseudomonas	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	pea	Pisum sativum	Rhizobium giardinii	Rhizobium	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	pea	Pisum sativum	Rhizobium leguminosarum	Rhizobium	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	pea	Pisum sativum	Rhizobium pisi	Rhizobium	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	pea	Pisum sativum	Serratia marcescens	Serratia	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	potato	Solanum tuberosum	Azotobacter vinelandii	Azotobacter	association	1.0		hasHost	GloBI Database	plant-bacteria association database record
+GloBI	potato	Solanum tuberosum	Bacillus pumilus	Bacillus	association	1.0		hasHost	GloBI Database	plant-bacteria association database record
+GloBI	potato	Solanum tuberosum	Bacillus subtilis	Bacillus	association	1.0		hasHost	GloBI Database	plant-bacteria association database record
+GloBI	potato	Solanum tuberosum	Burkholderia tropica	Burkholderia	association	1.0		hasHost	GloBI Database	plant-bacteria association database record
+GloBI	potato	Solanum tuberosum	Burkholderia xenovorans	Burkholderia	association	1.0		hasHost	GloBI Database	plant-bacteria association database record
+GloBI	potato	Solanum tuberosum	Pantoea agglomerans	Pantoea	association	1.0		hasHost	GloBI Database	plant-bacteria association database record
+GloBI	potato	Solanum tuberosum	Pseudomonas corrugata	Pseudomonas	association	1.0		interactsWith	GloBI Database	plant-bacteria association database record
+GloBI	potato	Solanum tuberosum	Pseudomonas iodinum	Pseudomonas	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	potato	Solanum tuberosum	Pseudomonas putida	Pseudomonas	association	1.0		hasHost	GloBI Database	plant-bacteria association database record
+GloBI	potato	Solanum tuberosum	Pseudomonas syringae	Pseudomonas	association	1.0		interactsWith	GloBI Database	plant-bacteria association database record
+GloBI	potato	Solanum tuberosum	Pseudomonas syringae pv. tomato	Pseudomonas	association	1.0		hasHost	GloBI Database	plant-bacteria association database record
+GloBI	potato	Solanum tuberosum	Pseudomonas vesicatoria	Pseudomonas	association	1.0		hasPathogen	GloBI Database	plant-bacteria association database record
+GloBI	potato	Solanum tuberosum	Pseudomonas viridiflava	Pseudomonas	association	1.0		hasHost	GloBI Database	plant-bacteria association database record
+GloBI	potato	Solanum tuberosum	Serratia rubidaea	Serratia	association	1.0		hasHost	GloBI Database	plant-bacteria association database record
+GloBI	potato	Solanum tuberosum	Streptomyces griseus	Streptomyces	association	1.0		hasHost	GloBI Database	plant-bacteria association database record
+GloBI	sunflower	Helianthus annuus	Pseudomonas syringae	Pseudomonas	association	1.0		pathogenOf	GloBI Database	plant-bacteria association database record
+GloBI	wheat	Triticum aestivum	Azospirillum brasilense	Azospirillum	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	wheat	Triticum aestivum	Azospirillum lipoferum	Azospirillum	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	wheat	Triticum aestivum	Azospirillum zeae	Azospirillum	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	wheat	Triticum aestivum	Bacillus cereus	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	wheat	Triticum aestivum	Bacillus coagulans	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	wheat	Triticum aestivum	Bacillus megaterium	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	wheat	Triticum aestivum	Pseudomonas aeruginosa	Pseudomonas	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	wheat	Triticum aestivum	Pseudomonas atrofaciens	Pseudomonas	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	wheat	Triticum aestivum	Pseudomonas cedrina	Pseudomonas	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	wheat	Triticum aestivum	Pseudomonas fluorescens	Pseudomonas	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	wheat	Triticum aestivum	Pseudomonas putida	Pseudomonas	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	wheat	Triticum aestivum	Pseudomonas stutzeri	Pseudomonas	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	wheat	Triticum aestivum	Pseudomonas syringae	Pseudomonas	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	wheat	Triticum aestivum	Streptomyces carpinensis	Streptomyces	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	wheat	Triticum aestivum	Streptomyces rochei	Streptomyces	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	wheat	Triticum aestivum	Streptomyces thermolilacinus	Streptomyces	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	rice	Oryza sativa	Bacillus amyloliquefaciens	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	rice	Oryza sativa	Bacillus anthracis	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	rice	Oryza sativa	Bacillus aryabhattai	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	rice	Oryza sativa	Bacillus barbaricus	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	rice	Oryza sativa	Bacillus cereus	Bacillus	association	1.0		hasHost	GloBI Database	plant-bacteria association database record
+GloBI	rice	Oryza sativa	Bacillus drentensis	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	rice	Oryza sativa	Bacillus koreensis	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	rice	Oryza sativa	Bacillus megaterium	Bacillus	association	1.0		hasHost	GloBI Database	plant-bacteria association database record
+GloBI	rice	Oryza sativa	Bacillus nealsonii	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	rice	Oryza sativa	Bacillus niacini	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	rice	Oryza sativa	Bacillus pichinotyi	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	rice	Oryza sativa	Bacillus pumilus	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	rice	Oryza sativa	Bacillus subtilis	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	rice	Oryza sativa	Bacillus thuringiensis	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	rice	Oryza sativa	Burkholderia cenocepacia	Burkholderia	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	rice	Oryza sativa	Burkholderia cepacia	Burkholderia	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	rice	Oryza sativa	Burkholderia gladioli	Burkholderia	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	rice	Oryza sativa	Burkholderia ubonensis	Burkholderia	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	rice	Oryza sativa	Burkholderia vietnamiensis	Burkholderia	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	rice	Oryza sativa	Enterobacter hormaechei	Enterobacter	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	rice	Oryza sativa	Enterobacter radicincitans	Enterobacter	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	rice	Oryza sativa	Klebsiella pneumoniae	Klebsiella	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	rice	Oryza sativa	Pantoea agglomerans	Pantoea	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	rice	Oryza sativa	Pantoea ananatis	Pantoea	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	rice	Oryza sativa	Pantoea dispersa	Pantoea	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	rice	Oryza sativa	Pseudomonas aeruginosa	Pseudomonas	association	1.0		hasHost	GloBI Database	plant-bacteria association database record
+GloBI	rice	Oryza sativa	Pseudomonas fluorescens	Pseudomonas	association	1.0		hasHost	GloBI Database	plant-bacteria association database record
+GloBI	rice	Oryza sativa	Pseudomonas fuscovaginae	Pseudomonas	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	rice	Oryza sativa	Pseudomonas mosselii	Pseudomonas	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	rice	Oryza sativa	Pseudomonas oryzae	Pseudomonas	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	rice	Oryza sativa	Pseudomonas plecoglossicida	Pseudomonas	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	rice	Oryza sativa	Pseudomonas putida	Pseudomonas	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	rice	Oryza sativa	Pseudomonas stutzeri	Pseudomonas	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	rice	Oryza sativa	Rhizobium mesosinicum	Rhizobium	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	rice	Oryza sativa	Rhizobium sullae	Rhizobium	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	rice	Oryza sativa	Rhizobium undicola	Rhizobium	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	rice	Oryza sativa	Serratia marcescens	Serratia	association	1.0		hasHost	GloBI Database	plant-bacteria association database record
+GloBI	rye	Secale cereale	Pseudomonas syringae	Pseudomonas	association	1.0		pathogenOf	GloBI Database	plant-bacteria association database record
+GloBI	soybean	Glycine max	Задокументированные PGPR не найдены	-	association	1.0		-	GloBI	plant-bacteria association database record
+GloBI	табак	Nicotiana tabacum	Bacillus aerophilus	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	табак	Nicotiana tabacum	Bacillus altitudinis	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	табак	Nicotiana tabacum	Bacillus amyloliquefaciens	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	табак	Nicotiana tabacum	Bacillus anthracis	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	табак	Nicotiana tabacum	Bacillus aryabhattai	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	табак	Nicotiana tabacum	Bacillus cereus	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	табак	Nicotiana tabacum	Bacillus pumilus	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	табак	Nicotiana tabacum	Bacillus safensis	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	табак	Nicotiana tabacum	Bacillus subtilis	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	табак	Nicotiana tabacum	Bacillus tequilensis	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	табак	Nicotiana tabacum	Bacillus velezensis	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	табак	Nicotiana tabacum	Enterobacter asburiae	Enterobacter	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	табак	Nicotiana tabacum	Enterobacter cloacae	Enterobacter	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	табак	Nicotiana tabacum	Pantoea agglomerans	Pantoea	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	табак	Nicotiana tabacum	Pantoea conspicua	Pantoea	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	табак	Nicotiana tabacum	Pantoea vagans	Pantoea	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	табак	Nicotiana tabacum	Pseudomonas aeruginosa	Pseudomonas	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	табак	Nicotiana tabacum	Pseudomonas amygdali	Pseudomonas	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	табак	Nicotiana tabacum	Pseudomonas azotoformans	Pseudomonas	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	табак	Nicotiana tabacum	Pseudomonas fluorescens	Pseudomonas	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	табак	Nicotiana tabacum	Pseudomonas mediterranea	Pseudomonas	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	табак	Nicotiana tabacum	Pseudomonas psychrotolerans	Pseudomonas	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	табак	Nicotiana tabacum	Pseudomonas rhizosphaerae	Pseudomonas	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	табак	Nicotiana tabacum	Pseudomonas syringae	Pseudomonas	association	1.0		hasPathogen	GloBI Database	plant-bacteria association database record
+GloBI	tomato	Solanum lycopersicum	Azotobacter vinelandii	Azotobacter	association	1.0		hasHost	GloBI Database	plant-bacteria association database record
+GloBI	tomato	Solanum lycopersicum	Bacillus pumilus	Bacillus	association	1.0		hasHost	GloBI Database	plant-bacteria association database record
+GloBI	tomato	Solanum lycopersicum	Bacillus subtilis	Bacillus	association	1.0		hasHost	GloBI Database	plant-bacteria association database record
+GloBI	tomato	Solanum lycopersicum	Burkholderia tropica	Burkholderia	association	1.0		hasHost	GloBI Database	plant-bacteria association database record
+GloBI	tomato	Solanum lycopersicum	Burkholderia xenovorans	Burkholderia	association	1.0		hasHost	GloBI Database	plant-bacteria association database record
+GloBI	tomato	Solanum lycopersicum	Pantoea agglomerans	Pantoea	association	1.0		hasHost	GloBI Database	plant-bacteria association database record
+GloBI	tomato	Solanum lycopersicum	Pseudomonas corrugata	Pseudomonas	association	1.0		interactsWith	GloBI Database	plant-bacteria association database record
+GloBI	tomato	Solanum lycopersicum	Pseudomonas iodinum	Pseudomonas	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	tomato	Solanum lycopersicum	Pseudomonas putida	Pseudomonas	association	1.0		hasHost	GloBI Database	plant-bacteria association database record
+GloBI	tomato	Solanum lycopersicum	Pseudomonas syringae	Pseudomonas	association	1.0		interactsWith	GloBI Database	plant-bacteria association database record
+GloBI	tomato	Solanum lycopersicum	Pseudomonas syringae pv. tomato	Pseudomonas	association	1.0		hasHost	GloBI Database	plant-bacteria association database record
+GloBI	tomato	Solanum lycopersicum	Pseudomonas vesicatoria	Pseudomonas	association	1.0		hasPathogen	GloBI Database	plant-bacteria association database record
+GloBI	tomato	Solanum lycopersicum	Pseudomonas viridiflava	Pseudomonas	association	1.0		hasHost	GloBI Database	plant-bacteria association database record
+GloBI	tomato	Solanum lycopersicum	Serratia rubidaea	Serratia	association	1.0		hasHost	GloBI Database	plant-bacteria association database record
+GloBI	tomato	Solanum lycopersicum	Streptomyces griseus	Streptomyces	association	1.0		hasHost	GloBI Database	plant-bacteria association database record
+GloBI	bean	Phaseolus vulgaris	Bacillus amyloliquefaciens	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	bean	Phaseolus vulgaris	Bacillus asahii	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	bean	Phaseolus vulgaris	Bacillus barbaricus	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	bean	Phaseolus vulgaris	Bacillus bataviensis	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	bean	Phaseolus vulgaris	Bacillus cereus	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	bean	Phaseolus vulgaris	Bacillus endophyticus	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	bean	Phaseolus vulgaris	Bacillus firmus	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	bean	Phaseolus vulgaris	Bacillus gibsonii	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	bean	Phaseolus vulgaris	Bacillus herbersteinensis	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	bean	Phaseolus vulgaris	Bacillus megaterium	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	bean	Phaseolus vulgaris	Bacillus muralis	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	bean	Phaseolus vulgaris	Bacillus niacini	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	bean	Phaseolus vulgaris	Bacillus pumilus	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	bean	Phaseolus vulgaris	Bacillus simplex	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	bean	Phaseolus vulgaris	Bacillus subtilis	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	bean	Phaseolus vulgaris	Bacillus thuringiensis	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	bean	Phaseolus vulgaris	Burkholderia contaminans	Burkholderia	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	bean	Phaseolus vulgaris	Burkholderia phymatum	Burkholderia	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	bean	Phaseolus vulgaris	Enterobacter asburiae	Enterobacter	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	bean	Phaseolus vulgaris	Enterobacter hormaechei	Enterobacter	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	bean	Phaseolus vulgaris	Pantoea agglomerans	Pantoea	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	bean	Phaseolus vulgaris	Pseudomonas aeruginosa	Pseudomonas	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	bean	Phaseolus vulgaris	Pseudomonas phaseoli	Pseudomonas	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	bean	Phaseolus vulgaris	Pseudomonas savastanoi	Pseudomonas	association	1.0		interactsWith	GloBI Database	plant-bacteria association database record
+GloBI	bean	Phaseolus vulgaris	Rhizobium endophyticum	Rhizobium	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	bean	Phaseolus vulgaris	Rhizobium etli	Rhizobium	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	bean	Phaseolus vulgaris	Rhizobium gallicum	Rhizobium	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	bean	Phaseolus vulgaris	Rhizobium giardinii	Rhizobium	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	bean	Phaseolus vulgaris	Rhizobium leguminosarum	Rhizobium	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	bean	Phaseolus vulgaris	Rhizobium leucaenae	Rhizobium	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	bean	Phaseolus vulgaris	Rhizobium lusitanum	Rhizobium	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	bean	Phaseolus vulgaris	Rhizobium phaseoli	Rhizobium	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	bean	Phaseolus vulgaris	Rhizobium rhizogenes	Rhizobium	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	хлопок	Gossypium	Bacillus amyloliquefaciens	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	хлопок	Gossypium	Bacillus cereus	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	хлопок	Gossypium	Bacillus pumilus	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	хлопок	Gossypium	Bacillus subtilis	Bacillus	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	хлопок	Gossypium	Pseudomonas aeruginosa	Pseudomonas	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	хлопок	Gossypium	Pseudomonas fluorescens	Pseudomonas	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	хлопок	Gossypium	Serratia marcescens	Serratia	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	barley	Hordeum vulgare	Azospirillum brasilense	Azospirillum	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	barley	Hordeum vulgare	Pseudomonas stutzeri	Pseudomonas	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	barley	Hordeum vulgare	Pseudomonas syringae	Pseudomonas	association	1.0		hostOf	GloBI Database	plant-bacteria association database record
+GloBI	barley	Hordeum vulgare	Pseudomonas translucens	Pseudomonas	association	1.0		hostOf	GloBI Database	plant-bacteria association database record

@@ -1,0 +1,6 @@
+name: pgpb-amrfinder
+channels: [conda-forge, bioconda]
+dependencies:
+  - ncbi-amrfinderplus
+  - python>=3.10
+

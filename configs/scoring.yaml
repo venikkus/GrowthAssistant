@@ -1,0 +1,18 @@
+evidence_scores:
+  field: 5
+  greenhouse: 4
+  pot: 3
+  in_vitro: 2
+  genome_only: 1
+  review: 1
+biosafety_strictness:
+  low: 0.8
+  medium: 1.0
+  high: 1.35
+recommendation_classes:
+  A: "Strong candidate; requires validation before use"
+  B: "Promising candidate; acceptable demo risk"
+  C: "Exploratory candidate"
+  D: "Weak or uncertain candidate"
+  E: "Risky or not recommended candidate"
+

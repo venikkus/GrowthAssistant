@@ -1,0 +1,4 @@
+sample_id	virulence_factor	source_database	risk_level
+strain_002	enterobactin-associated virulence	VFDB	medium
+strain_002	type VI secretion-associated marker	VFDB	medium
+

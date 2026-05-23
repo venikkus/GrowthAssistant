@@ -1,0 +1,46 @@
+qc:
+  completeness_weight: 0.08
+  contamination_weight: 0.6
+  n50_good: 100000
+  contig_penalty_threshold: 200
+taxonomy:
+  consensus_bonus: 2.0
+  ani_weight: 0.08
+pgp_traits:
+  high_confidence: 1.0
+  medium_confidence: 0.6
+  low_confidence: 0.25
+  category_cap: 4.0
+target_match:
+  drought:
+    markers: [acdS, eps, trehalose, glycine betaine, osmoprotectant]
+    weight: 1.2
+  phosphate_solubilization:
+    markers: [gcd, pqq, phosphatase, pho]
+    weight: 1.4
+  nitrogen_fixation:
+    markers: [nifH, nifD, nifK, nifE, nifN]
+    weight: 1.5
+  biocontrol:
+    markers: [chitinase, glucanase, siderophore, bacteriocin, NRPS, lipopeptide]
+    weight: 1.3
+  salinity:
+    markers: [osmoprotectant, glycine betaine, trehalose, ion transport, acdS]
+    weight: 1.2
+biosafety:
+  amr_gene_penalty: 1.5
+  virulence_penalty: 2.5
+  high_risk_taxonomy_penalty: 8.0
+  medium_risk_taxonomy_penalty: 4.0
+  mobile_amr_penalty: 3.0
+secondary_metabolites:
+  siderophore_bonus: 1.0
+  antimicrobial_bonus: 1.2
+  lipopeptide_bonus: 1.0
+external_evidence:
+  max_database_evidence_score: 5.0
+uncertainty:
+  missing_table_penalty: 1.0
+  poor_qc_penalty: 2.0
+  no_taxonomy_consensus_penalty: 1.5
+  low_confidence_hit_penalty: 0.2

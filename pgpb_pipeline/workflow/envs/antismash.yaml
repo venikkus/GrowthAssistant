@@ -1,0 +1,6 @@
+name: pgpb-antismash
+channels: [conda-forge, bioconda]
+dependencies:
+  - antismash
+  - python>=3.10
+

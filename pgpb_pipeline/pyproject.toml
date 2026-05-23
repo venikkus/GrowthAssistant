@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pgpb-pipeline"
+version = "0.1.0"
+description = "Snakemake MVP pipeline for bacterial genome analysis and PGPB ranking."
+requires-python = ">=3.10"
+dependencies = [
+    "pandas>=2.0",
+    "pyyaml>=6.0",
+    "biopython>=1.81",
+    "tabulate>=0.9",
+]
+
+[project.scripts]
+pgpb-pipeline = "pgpb_pipeline.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

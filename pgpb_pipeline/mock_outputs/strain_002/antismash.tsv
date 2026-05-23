@@ -1,0 +1,4 @@
+sample_id	region	bgc_type	product	similarity	coordinates	potential_role
+strain_002	region_1	NRPS	siderophore	0.55	5000-61000	siderophore
+strain_002	region_2	bacteriocin	bacteriocin-like	0.37	100000-130000	antimicrobial
+

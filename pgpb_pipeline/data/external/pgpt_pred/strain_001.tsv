@@ -1,0 +1,4 @@
+sample_id	protein_id	gene	trait	score	description
+strain_001	PGPT_001	acdS	ACC deaminase	0.95	PGPT-Pred demo hit for ACC deaminase
+strain_001	PGPT_002	pqqC	phosphate solubilization	0.82	PGPT-Pred demo hit for PQQ pathway
+

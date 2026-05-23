@@ -1,0 +1,6 @@
+name: pgpb-dbcan
+channels: [conda-forge, bioconda]
+dependencies:
+  - dbcan
+  - python>=3.10
+

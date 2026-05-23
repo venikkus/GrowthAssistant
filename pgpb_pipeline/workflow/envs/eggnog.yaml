@@ -1,0 +1,6 @@
+name: pgpb-eggnog
+channels: [conda-forge, bioconda]
+dependencies:
+  - eggnog-mapper
+  - python>=3.10
+

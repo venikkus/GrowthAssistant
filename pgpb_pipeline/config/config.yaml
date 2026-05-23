@@ -1,0 +1,52 @@
+mode: mock
+threads: 4
+
+paths:
+  results: results
+  mock_outputs: mock_outputs
+  external_evidence: data/external
+  pgpt_pred: data/external/pgpt_pred
+
+databases:
+  gtdbtk: /path/to/gtdbtk_db
+  kraken2: /path/to/kraken2_db
+  mash: /path/to/mash/refseq.msh
+  busco: bacteria_odb10
+  amrfinder: /path/to/amrfinder_db
+  vfdb: /path/to/vfdb
+  plasmidfinder: /path/to/plasmidfinder
+
+modules:
+  quast: true
+  checkm: true
+  busco: true
+  gtdbtk: true
+  kraken2: true
+  mash: true
+  fastani: true
+  bakta: true
+  prokka: false
+  eggnog: true
+  interproscan: false
+  kofamscan: false
+  orthofinder: false
+  pgp_traits: true
+  pgpt_pred_import: true
+  antismash: true
+  bagel: true
+  dbcan: true
+  amrfinder: true
+  card_rgi: false
+  resfinder: false
+  vfdb: true
+  pathogenfinder: false
+  plasmidfinder: true
+  mobsuite: true
+  crisprcasfinder: true
+  phaster: true
+
+tool_params:
+  quast: "--min-contig 500"
+  bakta: "--genus auto"
+  prokka: "--kingdom Bacteria"
+  antismash: "--genefinding-tool prodigal"

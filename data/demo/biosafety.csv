@@ -1,0 +1,16 @@
+strain_id,amr_gene_count,virulence_gene_count,pathogen_flag,risky_genus_flag,plasmid_amr_flag,biosafety_notes,biosafety_penalty
+PBM001,0,0,false,false,false,Low-risk demo profile,0
+PBM002,0,0,false,false,false,Low-risk demo profile,0
+PBM003,1,0,false,false,false,One intrinsic-like resistance marker in demo data,0
+PBM004,0,0,false,false,false,Low-risk demo profile,0
+PBM005,0,0,false,false,false,Low-risk demo profile,0
+PBM006,1,0,false,false,false,One resistance marker; verify before trials,0
+PBM007,0,0,false,false,false,Low-risk demo profile,0
+PBM008,0,0,false,false,false,Low-risk demo profile,0
+PBM009,1,1,false,false,false,Paraburkholderia taxonomy requires careful review,0
+PBM010,3,2,false,true,true,Enterobacter cloacae complex requires strict biosafety review,0
+PBM011,2,4,true,true,true,Serratia marcescens pathogen flag in demo profile,0
+PBM012,4,3,false,true,true,Klebsiella variicola requires strict biosafety review,0
+PBM013,0,0,false,false,false,Biosafety screen incomplete due to missing genome,0
+PBM014,0,0,false,false,false,Low-risk demo profile,0
+

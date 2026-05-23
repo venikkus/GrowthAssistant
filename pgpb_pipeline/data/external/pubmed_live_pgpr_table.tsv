@@ -1,0 +1,49 @@
+plant species	bacterial strain	condition	experimental type	effect	mechanism	evidence strength	article DOI
+Рожь (Secale cereale)	Cover crops	pathogen	field	Growth promotion confirmed	not specified	FIELD (Score: 5/5)	10.1094/PHYTO-08-22-0291-R
+Рожь (Secale cereale)	Winter rye plants	pathogen	field	Growth promotion confirmed	not specified	FIELD (Score: 5/5)	10.3389/fpls.2023.1232288
+Рожь (Secale cereale)	Cellulose nanofibrils	pathogen, normal growth	in vitro	Growth promotion confirmed	not specified	IN VITRO (Score: 2/5)	10.1021/acs.biomac.9b00522
+Рожь (Secale cereale)	Celiac disease is	pathogen	in vitro	Growth promotion confirmed	not specified	IN VITRO (Score: 2/5)	10.3390/nu12123724
+Пшеница (Triticum aestivum)	Plant growth-promoting	drought, salinity, pathogen, normal growth	greenhouse	Growth promotion confirmed	IAA, phosphate solubilization	GREENHOUSE (Score: 4/5)	10.3390/ijms24119759
+Пшеница (Triticum aestivum)	Changing climate creates	drought, salinity	greenhouse	Growth promotion confirmed	not specified	GREENHOUSE (Score: 4/5)	10.1016/j.micres.2024.127895
+Пшеница (Triticum aestivum)	Microbial communities play	growth promotion	in vitro	Growth promotion confirmed	not specified	IN VITRO (Score: 2/5)	10.1038/s41564-025-01973-1
+Пшеница (Triticum aestivum)	Much of the	pathogen	in vitro	Growth promotion confirmed	phosphate solubilization	IN VITRO (Score: 2/5)	10.1007/s00248-023-02340-5
+Ячмень (Hordeum vulgare)	Wheat and barley	pathogen	in vitro	Growth promotion confirmed	not specified	IN VITRO (Score: 2/5)	10.1007/s00253-023-12864-y
+Ячмень (Hordeum vulgare)	On average less	pathogen	greenhouse	Growth promotion confirmed	phosphate solubilization	GREENHOUSE (Score: 4/5)	10.3390/microorganisms9081619
+Ячмень (Hordeum vulgare)	Endophytes in the	pathogen	in vitro	Growth promotion confirmed	not specified	IN VITRO (Score: 2/5)	10.3389/fmicb.2022.981158
+Ячмень (Hordeum vulgare)	Fusarium graminearum	pathogen	in vitro	Growth promotion confirmed	not specified	IN VITRO (Score: 2/5)	10.3390/plants11151999
+Рис (Oryza sativa)	Native core microbiomes	normal growth	genome-only	Growth promotion confirmed	IAA	GENOME-ONLY (Score: 1/5)	10.1038/s41467-024-50685-3
+Рис (Oryza sativa)	Plant growth-promoting	drought, salinity, pathogen, normal growth	greenhouse	Growth promotion confirmed	IAA, phosphate solubilization	GREENHOUSE (Score: 4/5)	10.3390/ijms24119759
+Рис (Oryza sativa)	Greenhouse gases	growth promotion	greenhouse	Growth promotion confirmed	not specified	GREENHOUSE (Score: 4/5)	10.1016/j.tplants.2024.06.006
+Рис (Oryza sativa)	Heavy metal resistant	pathogen, normal growth	in vitro	Growth promotion confirmed	siderophore	IN VITRO (Score: 2/5)	10.7717/peerj.13131
+Горох (Pisum sativum)	Extensive crop losses	pathogen	in vitro	Growth promotion confirmed	not specified	IN VITRO (Score: 2/5)	10.3389/fmicb.2023.1240206
+Горох (Pisum sativum)	Although most soils	normal growth	in vitro	Growth promotion confirmed	IAA, ACC, siderophore	IN VITRO (Score: 2/5)	10.3389/fmicb.2023.1212702
+Горох (Pisum sativum)	Drought and heavy	drought	pot	Growth promotion confirmed	not specified	POT (Score: 3/5)	10.3390/plants11223013
+Горох (Pisum sativum)	Tenacibaculum has been	pathogen	in vitro	Growth promotion confirmed	not specified	IN VITRO (Score: 2/5)	10.1021/acs.jnatprod.1c01173
+Томаты (Solanum lycopersicum)	Bacillus spp	pathogen, normal growth	in vitro	Growth promotion confirmed	IAA	IN VITRO (Score: 2/5)	10.1007/s42770-022-00874-3
+Томаты (Solanum lycopersicum)	Disease outbreaks of	pathogen	greenhouse	Growth promotion confirmed	not specified	GREENHOUSE (Score: 4/5)	10.3389/fmicb.2023.1267395
+Томаты (Solanum lycopersicum)	Drought adversely affects	drought	greenhouse	Growth promotion confirmed	IAA	GREENHOUSE (Score: 4/5)	10.3389/fpls.2023.1211210
+Томаты (Solanum lycopersicum)	Pseudomonas syringae pv	pathogen	greenhouse	Growth promotion confirmed	not specified	GREENHOUSE (Score: 4/5)	10.1007/s00253-023-12493-5
+Соя (Glycine max)	Plant growth-promoting	drought, salinity, pathogen, normal growth	greenhouse	Growth promotion confirmed	IAA, phosphate solubilization	GREENHOUSE (Score: 4/5)	10.3390/ijms24119759
+Соя (Glycine max)	Nitrous oxide	growth promotion	greenhouse	Growth promotion confirmed	not specified	GREENHOUSE (Score: 4/5)	10.3389/fmicb.2019.01943
+Соя (Glycine max)	Thiamin analogs	growth promotion	in vitro	Growth promotion confirmed	not specified	IN VITRO (Score: 2/5)	10.2527/jas1984.593813x
+Соя (Glycine max)	Fusarium oxysporum	pathogen	in vitro	Growth promotion confirmed	IAA, siderophore	IN VITRO (Score: 2/5)	10.3390/pathogens12020254
+Фасоль (Phaseolus vulgaris)	Defensin peptide isolated	pathogen	in vitro	Growth promotion confirmed	not specified	IN VITRO (Score: 2/5)	10.29252/ijb.1562
+Фасоль (Phaseolus vulgaris)	Pseudomonas phages are	growth promotion	in vitro	Growth promotion confirmed	not specified	IN VITRO (Score: 2/5)	10.1016/j.jmb.2022.167799
+Фасоль (Phaseolus vulgaris)	Reduced efficacy of	pathogen	in vitro	Growth promotion confirmed	not specified	IN VITRO (Score: 2/5)	10.1039/d0fo00046a
+Фасоль (Phaseolus vulgaris)	Pseudomonas aeruginosa chronic	growth promotion	in vitro	Growth promotion confirmed	not specified	IN VITRO (Score: 2/5)	10.1128/mSphere.00843-20
+Картофель (Solanum tuberosum)	Using chemical fungicides	pathogen	field	Growth promotion confirmed	not specified	FIELD (Score: 5/5)	10.1021/acs.jafc.4c06866
+Картофель (Solanum tuberosum)	Potato soft rot	pathogen	greenhouse	Growth promotion confirmed	not specified	GREENHOUSE (Score: 4/5)	10.3390/antibiotics11081117
+Картофель (Solanum tuberosum)	Rhizosphere microbial communities	pathogen	greenhouse	Growth promotion confirmed	siderophore	GREENHOUSE (Score: 4/5)	10.1093/femsec/fiae088
+Картофель (Solanum tuberosum)	Potato common scab	pathogen	field	Growth promotion confirmed	not specified	FIELD (Score: 5/5)	10.3389/fmicb.2023.1295107
+Табак (Nicotiana tabacum)	Native core microbiomes	normal growth	genome-only	Growth promotion confirmed	IAA	GENOME-ONLY (Score: 1/5)	10.1038/s41467-024-50685-3
+Табак (Nicotiana tabacum)	Soil sickness a	pathogen	pot	Growth promotion confirmed	not specified	POT (Score: 3/5)	10.1038/s41598-024-61291-0
+Табак (Nicotiana tabacum)	Bladder cancer arises	growth promotion	in vitro	Growth promotion confirmed	not specified	IN VITRO (Score: 2/5)	10.7417/CT.2017.1984
+Табак (Nicotiana tabacum)	Agricultural pest infestation	growth promotion	genome-only	Growth promotion confirmed	not specified	GENOME-ONLY (Score: 1/5)	10.1093/jee/toaa211
+Подсолнечник (Helianthus annuus)	Phenolic compounds in	growth promotion	in vitro	Growth promotion confirmed	not specified	IN VITRO (Score: 2/5)	10.1016/j.crfs.2021.09.007
+Подсолнечник (Helianthus annuus)	Functionalized polyhedral carboranes	pathogen	in vitro	Growth promotion confirmed	not specified	IN VITRO (Score: 2/5)	10.1007/BF01361661
+Подсолнечник (Helianthus annuus)	Sustainable alternatives are	salinity	greenhouse	Growth promotion confirmed	IAA, ACC, phosphate solubilization	GREENHOUSE (Score: 4/5)	10.3934/microbiol.2024041
+Подсолнечник (Helianthus annuus)	Pseudomonas putida G7	pathogen	greenhouse	Growth promotion confirmed	not specified	GREENHOUSE (Score: 4/5)	10.1016/j.scitotenv.2023.161600
+Хлопок (Gossypium)	Although their use	pathogen	in vitro	Growth promotion confirmed	not specified	IN VITRO (Score: 2/5)	10.3390/foods12020343
+Хлопок (Gossypium)	Bee products are	pathogen	in vitro	Growth promotion confirmed	not specified	IN VITRO (Score: 2/5)	10.3390/ijms25158034
+Хлопок (Gossypium)	Agricultural pest infestation	growth promotion	genome-only	Growth promotion confirmed	not specified	GENOME-ONLY (Score: 1/5)	10.1093/jee/toaa211
+Хлопок (Gossypium)	Cotton is highly	normal growth	greenhouse	Growth promotion confirmed	not specified	GREENHOUSE (Score: 4/5)	10.3390/microorganisms12071474

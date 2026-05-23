@@ -1,0 +1,22 @@
+plants:
+  wheat:
+    scientific_name: Triticum aestivum
+    target_stresses: [drought]
+    target_pathogens: [Fusarium]
+    target_nutrient_limits: [phosphorus_deficiency]
+  soybean:
+    scientific_name: Glycine max
+    target_stresses: [salinity]
+    target_pathogens: []
+    target_nutrient_limits: [nitrogen_limitation]
+  potato:
+    scientific_name: Solanum tuberosum
+    target_stresses: []
+    target_pathogens: [Rhizoctonia, late_blight]
+    target_nutrient_limits: [phosphorus_deficiency]
+  sunflower:
+    scientific_name: Helianthus annuus
+    target_stresses: [drought]
+    target_pathogens: [Sclerotinia]
+    target_nutrient_limits: [phosphorus_deficiency]
+

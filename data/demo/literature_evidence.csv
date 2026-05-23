@@ -1,0 +1,16 @@
+evidence_id,plant_name,strain_id,bacterial_taxon,effect_type,stress_or_pathogen,experimental_level,effect_direction,effect_size,mechanism,citation,confidence_score
+E001,wheat,PBM001,Bacillus velezensis,growth_promotion,Fusarium pathogen_pressure,greenhouse,positive,0.22,biocontrol and phosphate solubilization,Synthetic demo citation 1,0.85
+E002,wheat,PBM002,Bacillus subtilis,growth_promotion,drought,pot,positive,0.14,stress tolerance and formulation stability,Synthetic demo citation 2,0.75
+E003,potato,PBM003,Pseudomonas fluorescens,biocontrol,pathogen_pressure,greenhouse,positive,0.18,siderophores and root colonization,Synthetic demo citation 3,0.8
+E004,wheat,PBM004,Azospirillum brasilense,growth_promotion,drought,field,positive,0.12,nitrogen fixation ACC deaminase,Synthetic demo citation 4,0.82
+E005,sunflower,PBM005,Paenibacillus polymyxa,growth_promotion,drought,greenhouse,positive,0.2,EPS phosphate and biocontrol,Synthetic demo citation 5,0.78
+E006,potato,PBM006,Streptomyces griseus,biocontrol,pathogen_pressure,pot,positive,0.16,antimicrobial secondary metabolites,Synthetic demo citation 6,0.74
+E007,soybean,PBM007,Bradyrhizobium japonicum,nitrogen_fixation,nitrogen_limitation,field,positive,0.3,symbiotic nitrogen fixation,Synthetic demo citation 7,0.92
+E008,soybean,PBM008,Rhizobium leguminosarum,nitrogen_fixation,nitrogen_limitation,greenhouse,mixed,0.1,nodulation outside primary host range,Synthetic demo citation 8,0.55
+E009,sunflower,PBM009,Paraburkholderia phytofirmans,stress_tolerance,drought,pot,positive,0.11,ACC deaminase and endophytic colonization,Synthetic demo citation 9,0.68
+E010,wheat,PBM010,Enterobacter cloacae,growth_promotion,drought,in_vitro,positive,0.08,IAA and ACC deaminase,Synthetic demo citation 10,0.5
+E011,potato,PBM011,Serratia marcescens,biocontrol,pathogen_pressure,in_vitro,positive,0.09,chitinase and siderophores,Synthetic demo citation 11,0.45
+E012,soybean,PBM012,Klebsiella variicola,nitrogen_fixation,nitrogen_limitation,genome_only,positive,,nif genes detected,Synthetic demo citation 12,0.35
+E013,sunflower,PBM013,Arthrobacter sp.,stress_tolerance,drought,review,mixed,,stress tolerance reported at genus level,Synthetic demo citation 13,0.35
+E014,wheat,PBM014,Pseudarthrobacter sp.,phosphate_solubilization,phosphorus_deficiency,pot,positive,0.1,phosphate solubilization,Synthetic demo citation 14,0.62
+

@@ -1,0 +1,6 @@
+name: pgpb-bakta
+channels: [conda-forge, bioconda]
+dependencies:
+  - bakta
+  - python>=3.10
+

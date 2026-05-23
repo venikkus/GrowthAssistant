@@ -1,0 +1,6 @@
+plant_name,scientific_name,crop_group,target_stresses,target_pathogens,target_nutrient_limits,region,soil_pH,notes
+wheat,Triticum aestivum,cereal,drought,Fusarium;pathogen_pressure,phosphorus_deficiency,temperate,6.7,Demo wheat profile for drought and Fusarium pressure
+soybean,Glycine max,legume,salinity,,nitrogen_limitation,temperate,6.4,Demo soybean profile emphasizing nitrogen and salt stress
+potato,Solanum tuberosum,tuber,,Rhizoctonia;late_blight;pathogen_pressure,phosphorus_deficiency,temperate,5.8,Demo potato profile for pathogen and phosphorus constraints
+sunflower,Helianthus annuus,oilseed,drought,Sclerotinia;pathogen_pressure,phosphorus_deficiency,steppe,6.9,Demo sunflower profile for drought and Sclerotinia pressure
+

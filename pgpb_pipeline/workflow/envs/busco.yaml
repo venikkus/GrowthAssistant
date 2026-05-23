@@ -1,0 +1,6 @@
+name: pgpb-busco
+channels: [conda-forge, bioconda]
+dependencies:
+  - busco
+  - python>=3.10
+

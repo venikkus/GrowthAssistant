@@ -1,0 +1,6 @@
+name: pgpb-prokka
+channels: [conda-forge, bioconda]
+dependencies:
+  - prokka
+  - python>=3.10
+

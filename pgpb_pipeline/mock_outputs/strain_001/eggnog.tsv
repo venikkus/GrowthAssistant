@@ -1,0 +1,7 @@
+sample_id	gene_id	product
+strain_001	gene_001	ACC deaminase acdS
+strain_001	gene_002	pqqC pyrroloquinoline quinone biosynthesis
+strain_001	gene_003	gcd glucose dehydrogenase
+strain_001	gene_004	trehalose biosynthesis protein
+strain_001	gene_005	flagellar biosynthesis protein
+
